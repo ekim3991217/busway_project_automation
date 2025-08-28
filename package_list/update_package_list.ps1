@@ -2,7 +2,7 @@
 $Date = Get-Date -Format "yyyy-MM-dd"
 
 # Define your custom output folder path
-$OutputFolder = "C:\Users\EKim\OneDrive - LS Cable\PM - EugeneKim\GITHUB_REPO_CLONE\busway_project_automation"
+$OutputFolder = "C:\Users\EKim\OneDrive - LS Cable\PM - EugeneKim\GITHUB_REPO_CLONE\busway_project_automation\package_list"
 
 # Make sure folder exists
 if (!(Test-Path -Path $OutputFolder)) {
