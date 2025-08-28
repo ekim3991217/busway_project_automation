@@ -3,17 +3,17 @@
 bom_parser.py
 
 Usage:
-  python bom_parser.py "C:\path\to\your\file.xlsx"
+  python bom_parser.py
 
 What it does:
-  1) Deletes worksheet named "REFERENCE" (case-insensitive match).
-  2) On the "BOM" sheet, removes columns that are completely empty from row 7 to the last used row.
-  3) On the "BOM" sheet, removes rows 1:3.
-  4) Writes an edited copy next to the original with "_editedBOM" appended to the filename.
+  1) Prompts user to paste an Excel file path.
+  2) Deletes worksheet named "REFERENCE" (case-insensitive match).
+  3) On the "BOM" sheet, removes columns that are completely empty from row 7 to the last used row.
+  4) On the "BOM" sheet, removes rows 1:3.
+  5) Writes an edited copy next to the original with "_editedBOM" appended to the filename.
 """
 
 import sys
-import argparse
 from pathlib import Path
 
 from openpyxl import load_workbook
@@ -30,11 +30,10 @@ def is_cell_empty(value):
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Edit a BOM Excel file.")
-    parser.add_argument("filepath", help="Path to the .xlsx file to edit")
-    args = parser.parse_args()
+    # --- Filename prompt section ---
+    file_input = input("COPY AND PASTE EXCEL FILEPATH HERE: ").strip('"').strip()
+    src_path = Path(file_input).expanduser().resolve()
 
-    src_path = Path(args.filepath).expanduser().resolve()
     if not src_path.exists():
         print(f"[ERROR] File not found: {src_path}")
         sys.exit(1)
@@ -42,7 +41,7 @@ def main():
         print(f"[ERROR] This script expects a .xlsx file. Got: {src_path.suffix}")
         sys.exit(1)
 
-    # Load workbook with formatting preserved as much as openpyxl allows
+    # --- Workbook processing ---
     try:
         wb = load_workbook(filename=str(src_path), data_only=False)
     except Exception as e:
@@ -75,7 +74,6 @@ def main():
     ws = wb[bom_sheet_name]
 
     # Remove columns that are completely empty from row 7 down
-    # Iterate from right to left to avoid index shifting
     max_row = ws.max_row
     max_col = ws.max_column
 
