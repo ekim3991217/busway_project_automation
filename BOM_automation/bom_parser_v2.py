@@ -7,11 +7,12 @@ Usage:
 
 What it does:
   1) Prompts user to paste an Excel file path.
-  2) Deletes worksheet named "REFERENCE" (case-insensitive match).
-  3) On the "BOM" sheet, UNMERGES all merged cells and resets horizontally centered cells to 'general'.
-  4) On the "BOM" sheet, removes columns that are completely empty between rows 7–77 (inclusive).
-  5) On the "BOM" sheet, removes rows 1:3.
-  6) Writes an edited copy next to the original with "_editedBOM" appended to the filename.
+  2) Converts ALL cells in ALL sheets to values-only (removes formulas/dependencies).
+  3) Deletes worksheet named "REFERENCE" (case-insensitive match).
+  4) On the "BOM" sheet, UNMERGES all merged cells and resets horizontally centered cells to 'general'.
+  5) On the "BOM" sheet, removes columns that are completely empty between rows 7–77 (inclusive), limited to J:AT.
+  6) On the "BOM" sheet, removes rows 1:3.
+  7) Writes an edited copy next to the original with "_editedBOM" appended to the filename.
 """
 
 import sys
@@ -20,7 +21,7 @@ from pathlib import Path
 from openpyxl import load_workbook
 from openpyxl.utils import get_column_letter
 from openpyxl.styles import Alignment
-
+from openpyxl.cell.cell import MergedCell
 
 def is_cell_empty(value):
     """Treat None or whitespace-only strings as empty."""
@@ -45,10 +46,48 @@ def main():
 
     # --- Workbook processing ---
     try:
+        # Load with formulas/styles
         wb = load_workbook(filename=str(src_path), data_only=False)
+        # Load with cached computed values
+        wb_vals = load_workbook(filename=str(src_path), data_only=True)
     except Exception as e:
         print(f"[ERROR] Failed to open workbook: {e}")
         sys.exit(1)
+
+    # ========================= Freeze formulas to values (safe for merged cells) =========================
+    replaced = 0
+    for name in wb.sheetnames:
+        if name not in wb_vals.sheetnames:
+            continue
+
+        ws_main = wb[name]      # workbook with formulas/styles
+        ws_vals = wb_vals[name] # workbook exposing cached values
+
+        # Use max dimensions to be safe
+        mr = max(ws_main.max_row, ws_vals.max_row)
+        mc = max(ws_main.max_column, ws_vals.max_column)
+
+        for r in range(1, mr + 1):
+            for c in range(1, mc + 1):
+                cell_main = ws_main.cell(row=r, column=c)
+
+                # Non-anchor cells in merged regions are read-only -> skip them
+                if isinstance(cell_main, MergedCell):
+                    continue
+
+                val = ws_vals.cell(row=r, column=c).value
+
+                if val is not None:
+                    # Overwrite with cached value (this removes formula/dependency)
+                    cell_main.value = val
+                    replaced += 1
+                else:
+                    # Fallback: if Excel didn't cache a value, leave the original content in place.
+                    # (If you prefer to blank formulas without cached values, you could set to None.)
+                    pass
+
+    print(f"[INFO] Converted cells to values-only (updated {replaced} cell(s)).")
+    # =====================================================================================================
 
     # 1) Delete worksheet "REFERENCE" (case-insensitive)
     ref_sheet_name = None
@@ -75,7 +114,6 @@ def main():
 
     ws = wb[bom_sheet_name]
 
-    # --- NEW: Undo all merged cells and horizontal centering on BOM sheet ---
     # Unmerge all merged ranges
     merged_count = len(ws.merged_cells.ranges)
     if merged_count:
@@ -98,24 +136,24 @@ def main():
                 center_fixed += 1
     print(f"[INFO] Reset horizontal centering on {center_fixed} cell(s).")
 
-    # --- UPDATED: Remove columns empty ONLY within rows 7..77 (inclusive) ---
+    # Remove columns empty ONLY within rows 7..77 (inclusive), and ONLY for J:AT
     window_start = 7
     window_end = min(77, ws.max_row)  # don't exceed actual last row
     cols_deleted = []
-    # Iterate right->left to avoid index shifting
-    for col_idx in range(ws.max_column, 0, -1):
-        # If the BOM has fewer than 7 rows, there's no window to check
-        if ws.max_row < window_start:
-            break
-        empty_in_window = True
-        for row_idx in range(window_start, window_end + 1):
-            cell_val = ws.cell(row=row_idx, column=col_idx).value
-            if not is_cell_empty(cell_val):
-                empty_in_window = False
-                break
-        if empty_in_window:
-            ws.delete_cols(col_idx, 1)
-            cols_deleted.append(get_column_letter(col_idx))
+
+    if ws.max_row >= window_start and ws.max_column >= 10:
+        # Iterate right->left; J=10, AT=46
+        for col_idx in range(min(ws.max_column, 46), 9, -1):
+            empty_in_window = True
+            for row_idx in range(window_start, window_end + 1):
+                if not is_cell_empty(ws.cell(row=row_idx, column=col_idx).value):
+                    empty_in_window = False
+                    break
+            if empty_in_window:
+                ws.delete_cols(col_idx, 1)
+                cols_deleted.append(get_column_letter(col_idx))
+    else:
+        print("[INFO] No columns beyond I (J+) to evaluate or not enough rows to check 7–77 window.")
 
     if cols_deleted:
         print(f"[INFO] Deleted columns empty in rows 7–77: {', '.join(reversed(cols_deleted))}")
@@ -126,7 +164,7 @@ def main():
     ws.delete_rows(idx=1, amount=3)
     print("[INFO] Deleted rows 1:3 on 'BOM'.")
 
-    # 4) Save edited file alongside original
+    # Save edited file alongside original
     out_path = src_path.with_name(f"{src_path.stem}_editedBOM{src_path.suffix}")
     try:
         wb.save(str(out_path))
