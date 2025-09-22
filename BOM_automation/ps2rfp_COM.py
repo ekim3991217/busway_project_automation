@@ -5,18 +5,24 @@
 ps_cleaner_preserve_images.py
 
 Usage:
-  python ps_cleaner_preserve_images.py "C:\path\to\250826 PS-USA-2444 EGLINTON PJT-A.xlsm"
+  python ps_cleaner_preserve_images.py "C:\\path\\to\\250826 PS-USA-2444 EGLINTON PJT-A.xlsm"
 
 If you omit the argument, you’ll be prompted for a path.
 
 What it does:
   1) Deletes worksheet "COVER" (case-insensitive).
   2) Converts ALL cells on ALL worksheets to values (preserves formatting).
-  3) On "PS" sheet:
+  3) Replaces all occurrences of "DDP" with "CIF" across all worksheets
+     (partial match safe: only the substring "DDP" is replaced).
+  4) On "PS" sheet:
        - Temporarily moves all shapes/pictures to a safe area in column A
-       - Clears columns L through XFD (content + formats)
+       - Clears columns to the right dynamically:
+         * Find any cell(s) containing "DDP" (before replacement) and compute the
+           earliest column where clearing should start: (match_col + 3)
+           e.g., if a "DDP" cell is in column G (7), start clearing at J (10).
+         * If no "DDP" was present originally, default to L:XFD as before.
        - Restores shapes to their original coordinates
-  4) Saves a copy with filename prefix changed from "yymmdd PS-" to "yymmdd RFP-",
+  5) Saves a copy with filename prefix changed from "yymmdd PS-" to "yymmdd RFP-",
      preserving extension and macros when applicable (.xlsm).
 """
 
@@ -31,9 +37,14 @@ except ImportError:
     sys.exit(1)
 
 # Excel FileFormat constants
-XL_OPENXML_WORKBOOK        = 51  # .xlsx
-XL_OPENXML_WORKBOOK_MACRO  = 52  # .xlsm
+XL_OPENXML_WORKBOOK       = 51  # .xlsx
+XL_OPENXML_WORKBOOK_MACRO = 52  # .xlsm
 
+# Excel Find/Replace constants
+XL_PART       = 2   # LookAt: xlPart (substring match)
+XL_BYROWS     = 1   # SearchOrder: xlByRows
+XL_NEXT       = 1   # SearchDirection: xlNext
+XL_FORMULAS   = -4123  # xlFormulas (Find's Within arg if needed)
 
 def get_src_path():
     if len(sys.argv) > 1:
@@ -49,7 +60,6 @@ def get_src_path():
         sys.exit(1)
     return p
 
-
 def rename_to_rfp(src_path: Path) -> Path:
     name = src_path.name
     m = re.match(r"^(\d{6})\sPS-(.*)$", name, flags=re.IGNORECASE)
@@ -60,13 +70,11 @@ def rename_to_rfp(src_path: Path) -> Path:
         return src_path.with_name(f"{m2.group(1)} RFP-{m2.group(3)}")
     return src_path.with_name(f"{src_path.stem}_RFP{src_path.suffix}")
 
-
 def delete_cover_if_present(xl_wb):
     for ws in xl_wb.Worksheets:
         if str(ws.Name).lower() == "cover":
             ws.Delete()
             return
-
 
 def convert_all_used_ranges_to_values(xl_wb):
     """Freeze formulas to values (formats/images stay intact)."""
@@ -79,18 +87,16 @@ def convert_all_used_ranges_to_values(xl_wb):
             # Charts or special sheets may not support UsedRange.Value -> safe to skip
             pass
 
-
 def get_ps_sheet(xl_wb):
     for ws in xl_wb.Worksheets:
         if str(ws.Name).lower() == "ps":
             return ws
     return None
 
-
 def snapshot_and_move_shapes_to_safe_area(ps_ws):
     """
     Snapshot all shapes' geometry and move them temporarily into col A
-    so clearing L:XFD won't touch them even if anchored there.
+    so clearing won't touch them even if anchored there.
     Returns a list of dicts with shape properties for restoration.
     """
     shapes_info = []
@@ -130,7 +136,6 @@ def snapshot_and_move_shapes_to_safe_area(ps_ws):
 
     return shapes_info
 
-
 def restore_shapes(ps_ws, shapes_info):
     """Restore shape positions after clearing."""
     by_name = {s["Name"]: s for s in shapes_info}
@@ -157,11 +162,82 @@ def restore_shapes(ps_ws, shapes_info):
                 # Best-effort restoration per shape
                 continue
 
+def find_earliest_clear_start_col_for_ps(ps_ws):
+    """
+    On PS sheet, search for any cell containing "DDP" (substring, case-insensitive).
+    Return the earliest (leftmost) column index + 3 (i.e., start clearing from col+3).
+    If no matches, return None.
+    """
+    try:
+        used = ps_ws.UsedRange
+    except Exception:
+        return None
 
-def clear_ps_columns_from_L_right(ps_ws):
-    """Clear L:XFD (values + formats) — *after* shapes are moved away."""
-    ps_ws.Range("L:XFD").Clear()
+    # Use Range.Find to search within UsedRange
+    try:
+        first = used.Find(What="DDP", LookAt=XL_PART, SearchOrder=XL_BYROWS, SearchDirection=XL_NEXT, MatchCase=False)
+    except Exception:
+        first = None
 
+    if not first:
+        return None
+
+    min_col_plus3 = first.Column + 3
+    # Loop FindNext until we circle back
+    cur = first
+    while True:
+        try:
+            cur = used.FindNext(cur)
+        except Exception:
+            break
+        if not cur:
+            break
+        if cur.Address == first.Address:
+            break
+        candidate = cur.Column + 3
+        if candidate < min_col_plus3:
+            min_col_plus3 = candidate
+
+    return min_col_plus3
+
+def clear_ps_columns_from_dynamic_start(ps_ws, start_col_index=None):
+    """
+    Clear from start_col_index to XFD (values + formats).
+    If start_col_index is None, default to column L (12).
+    """
+    if start_col_index is None or start_col_index < 1:
+        start_col_index = 12  # L
+
+    # Excel's last column is XFD (16384)
+    last_col = 16384
+    if start_col_index > last_col:
+        return
+
+    # Build an A1-style column label for start_col_index
+    col_label = column_index_to_label(start_col_index)
+    rng_addr = f"{col_label}:XFD"
+    ps_ws.Range(rng_addr).Clear()
+
+def column_index_to_label(idx):
+    """Convert 1-based column index to Excel column letters."""
+    label = ""
+    while idx > 0:
+        idx, rem = divmod(idx - 1, 26)
+        label = chr(65 + rem) + label
+    return label
+
+def replace_ddp_with_cif_all_sheets(xl_wb):
+    """
+    Replace substring "DDP" -> "CIF" on all worksheets, case-insensitive,
+    without disturbing other text in the cell.
+    """
+    for ws in xl_wb.Worksheets:
+        try:
+            # Use Cells.Replace for partial substring replace
+            ws.Cells.Replace(What="DDP", Replacement="CIF", LookAt=XL_PART, SearchOrder=XL_BYROWS, MatchCase=False)
+        except Exception:
+            # Some sheet types may not support Replace; ignore safely
+            pass
 
 def main():
     src = get_src_path()
@@ -185,22 +261,23 @@ def main():
         # 2) Convert all formulas to values
         convert_all_used_ranges_to_values(wb)
 
-        # 3) PS sheet shape-preserving clear
+        # 3a) Determine dynamic clear start on PS using occurrences of "DDP" BEFORE we replace
         ps_ws = get_ps_sheet(wb)
         if ps_ws is None:
             print("[ERROR] 'PS' worksheet not found.")
             sys.exit(1)
 
-        # Move shapes safely to column A area, remember original geometry
+        dynamic_start = find_earliest_clear_start_col_for_ps(ps_ws)  # may be None
+
+        # 3b) Replace "DDP" -> "CIF" on ALL sheets (substring-safe)
+        replace_ddp_with_cif_all_sheets(wb)
+
+        # 4) PS sheet shape-preserving clear using dynamic start
         shapes_info = snapshot_and_move_shapes_to_safe_area(ps_ws)
-
-        # Now clear L:XFD
-        clear_ps_columns_from_L_right(ps_ws)
-
-        # Restore shape positions
+        clear_ps_columns_from_dynamic_start(ps_ws, dynamic_start)
         restore_shapes(ps_ws, shapes_info)
 
-        # 4) Save with new name / format
+        # 5) Save with new name / format
         wb.SaveAs(Filename=str(out), FileFormat=fileformat)
         print(f"[SUCCESS] Saved edited file to:\n{out}")
 
@@ -217,7 +294,6 @@ def main():
         except Exception:
             pass
         excel.Quit()
-
 
 if __name__ == "__main__":
     main()
