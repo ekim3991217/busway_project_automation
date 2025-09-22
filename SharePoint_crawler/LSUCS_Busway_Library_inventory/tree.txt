@@ -1,0 +1,2178 @@
+📁 01. Catalog
+    📁 1. BUSWAY
+        └── 1. EX-WAY Catalog_231121.pdf
+        └── 2. NSPB_Catalog.pdf
+        └── 3. CR-way_Catalog.pdf
+        └── LS_Exway_Catalog_Pages 1-48_071425_C.pdf
+    📁 2. BUS PLUGS (PLUG-IN BOX)
+        └── 1-2. 230124 MCCB BOX INFORMATION.pdf
+        └── 1. Susol-UL-MCCB_Catalog_EN_202110.pdf
+        └── 2. Fusible Plug-in&Bolt-on Unit details.xlsx
+    📁 3. DTS
+        └── 01. BTMS - DTS CATALOGUE_011924.pdf
+        └── 02. APTech_DTS Presentation.pdf
+        └── 03. LS BPMS(BusductPowerMonitoringSystem)_Kr_200918.pdf
+        └── 04. DTS Rack Dims.jpeg
+📁 02. Manuals
+    📁 1. BUSWAY
+        📁 Ex-way
+            └── 1. O&M Manual Ex-way.pdf
+            └── 2. LS BUSDUCT Ex-Way(UL) INSTALLATION MANUAL_R3_Single Rod included.pdf
+            └── 3. 230707 Presentation Installation And Maintenance Guide 1.pdf
+            └── 4. Installation Manual - EX-Way(UL).pptx
+        📁 NSPB
+            └── 1. BUSDUCT(NSPB-LV,MV) INSTALLATION, OPERATION & MAINTENANCE MANUAL.PDF
+            └── 2. NSPB Installation & Maintenance Manual.pdf
+    📁 2. BUS PLUGS (PLUG-IN BOX)
+        └── 230804 TAP OFF BOX INFORMATION_MCCB type.pdf
+        └── LS FUSIBLE PLUG-IN UNIT INSTALLATION MANUAL-07-21-23_EN.pptx
+        └── LS MCCB PLUG-IN UNIT INSTALLATION MANUAL_230821_EN.pdf
+    📁 3. Busway Training
+        └── 01 Installation Manual_EX-Way(UL)_250312.pdf
+        └── 02 Busduct Introduction(KR)_250312_R2.pptx
+        └── 03 Busduct Introduction(EN)_250312_R2.pptx
+        └── 04 Data-way(UL) Introduction_250314.pptx
+    📁 4. LS Yongsan Tower
+        └── 2025 Seoul Dragon City Corporate rate to LS Group.docx
+        └── 250304 LSCUS Sales Manager training in Korea_Rev.8.xlsx
+        └── 250304 PDI visit Korea_Rev.4.xlsx
+        └── 사업장내방객관리방안_vf_검토(230515).pptx
+        └── 웰컴보드 양식_구미공장_Power Design_250311.pptx
+        └── 의전지원 요청서_Busduct해외영업팀_250311.pptx
+        └── 첨부1)Working Lounge 안내자료_LS용산타워 4층.pdf
+        └── 첨부2)Working Lounge 복합기 설치 가이드_LS용산타워 4층.pdf
+📁 03. Company Information
+    📁 1. General Presentation
+        📁 1. Canada
+            └── 240226_Busway Presentation_Summary.pdf
+            └── 240226_Busway Presentation_Summary.pptx
+        └── 2025년 LS전선 소개_국문(PPT)_0328_복호화.pptx
+        └── 240322_Busway Presentation_Summary.pptx
+        └── [LS Cable & System] Your Link to Energy_2022.pdf
+        └── Company Introduction PPT_ LS Cable & System_240408.pdf
+        └── LS Cable & System USA Inc. - Reference List in North America_240315.xlsx
+        └── LS Cable_Busduct Presentation 2025 Ver.0428.pdf
+    📁 10. ESG Report
+        └── LS_2024_reports_english.pdf
+    📁 2. LS Corporate Presentation
+        └── 2022_LS CABLE AND SYSTEM COMPANY PROFILE_ENG (1).pdf
+    📁 3. W-9
+        └── LSCNS Certificate of Business Registration (23.02.02).pdf
+        └── LSCNS 사업자등록증 (23.02.01).pdf
+        └── LSCNS 사업자등록증 (별지 등 포함) (23.02.01).pdf
+        └── W-9 LSCUS.pdf
+        └── W9 2024Ver._LSCUS.pdf
+    📁 4. Bank Information
+        └── Bank Statement_LS Cable & System USA.pdf
+    📁 5. Insurance
+        └── MMA 2024-2025 COI - Evidence of Coverage.pdf
+    📁 6. OSHA 300A
+        └── 2019.pdf
+        └── 2020 OSHA 300A.pdf
+        └── 2021 OSHA300A.pdf
+        └── OSHA 300A 2023 version.pdf
+        └── OSHA 300A- 2022 Signed copy.pdf
+    📁 7. Subcontractor lisence
+        └── Arizona EC Certificate_LS Cable & System USA.pdf
+        └── Georgia License - 시공면허.pdf
+    📁 8. Audit Report Separated & Cosolidated
+        📁 LSCNS_FINANCIAL STATEMENT
+            └── LSCNS FY2024_Consolidated (1).pdf
+            └── LSCNS FY2024_Consolidated.pdf
+            └── LSCNS FY2024_Seperate (1).pdf
+            └── LSCNS FY2024_Seperate.pdf
+            └── LSCNS_2018_Consolidated.pdf
+            └── LSCNS_2018_Separate.pdf
+            └── LSCNS_2019_Consolidated.pdf
+            └── LSCNS_2019_Separate.pdf
+            └── LSCNS_2020_Consolidated.pdf
+            └── LSCNS_2023_Audit Report.pdf
+            └── LSCNS_2023_Consolidated -KR Ver.pdf
+            └── LSCNS_2023_Consolidated Audit Report.pdf
+            └── LSCNS_2023_Separate -KR Ver.pdf
+        📁 LSCUS_FINANCIAL STATEMENT
+            └── Audit Report_2018.pdf
+            └── Audit Report_2019.pdf
+            └── Audit Report_2020.pdf
+            └── Audit Report_2021(Consolidated).pdf
+            └── Audit Report_2022(Consolidated).pdf
+            └── Financial Statements_BS_12.24.pdf
+            └── Financial Statements_PL_12.24.pdf
+            └── LS Cable & System USA Audit Report_2023(Consolidated).PDF
+    📁 9. EMR
+        └── 2019 Exp Mod.PDF
+        └── LS Cable Ex-Mod(4.1.2023).pdf
+        └── LS Cable Mod rate 2020-2022.pdf
+📁 04. Technical Information
+    📁 TYPICAL DRAWING
+        📁 Ex-Way(UL)
+            📁 01. FEEDER
+                📁 3W
+                    └── Drawing1.dwl
+                    └── Drawing1.dwl2
+                    └── U-FEEDER_3W3H_210422.bak
+                    └── U-FEEDER_3W3H_210422.dwg
+                    └── U-FEEDER_3W3H_210422.dwl
+                    └── U-FEEDER_3W3H_210422.dwl2
+                    └── U-FEEDER_3W3H_210429.bak
+                📁 4W
+                    └── U-FEEDER_4W4H_210423.dwg
+                    └── U-FEEDER_4W4H_210423.dwl
+                    └── U-FEEDER_4W4H_210423.dwl2
+                📁 5W
+                    └── U-FEEDER_5W_210426.bak
+                    └── U-FEEDER_5W_210426.dwg
+                    └── U-FEEDER_5W_210428.bak
+                    └── U-FEEDER_5W_210429.bak
+            📁 02. PLUG IN BUSDUCT
+                📁 3W
+                    └── plot.log
+                    └── U-PH-FEEDER_3W3H_210430.dwg
+                📁 4W
+                    └── U-FEEDER_4W4H_210422.bak
+                    └── U-PH-FEEDER_4W4H_210422.bak
+                    └── U-PH-FEEDER_4W4H_210430.bak
+                    └── U-PH-FEEDER_4W4H_210430.dwg
+                    └── U-PH-FEEDER_4W4H_210430_복호화.dwg
+                    └── U-PH-FEEDER_4W4H_210430_복호화.dwl
+                    └── U-PH-FEEDER_4W4H_210430_복호화.dwl2
+                📁 5W
+                    └── U-FEEDER_5W_210428.bak
+                    └── U-PH-FEEDER_5W_210428.bak
+                    └── U-PH-FEEDER_5W_210430.bak
+                    └── U-PH-FEEDER_5W_210430.dwg
+                └── UL PH-BOX PH 10.dwg
+                └── UL PH-BOX PH 10.dwl
+                └── UL PH-BOX PH 10.dwl2
+            📁 03. FLANGE END
+                📁 3W
+                    └── plot.log
+                    └── U-FLANGE END_3W3H_210511.bak
+                    └── U-FLANGE END_3W3H_210511.dwg
+                    └── U-FLANGE END_3W3H_211006.bak
+                    └── U-FLANGE END_3W3H_211006.dwg
+                    └── U-FLANGE END_3W3H_211006_2.dwg
+                    └── U-FLANGE END_3W3H_220110.dwg
+                    └── U-FLANGE END_3W3H_220224.bak
+                    └── U-FLANGE END_3W3H_220224.dwg
+                📁 4W
+                    └── U-FLANGE END_4W4H_210512.dwg
+                    └── U-FLANGE END_4W4H_211006.dwg
+                    └── U-FLANGE END_4W4H_220110.DWG
+                    └── U-FLANGE END_4W4H_220224.dwg
+                📁 5W
+                    └── U-FLANGE END_5WGE_210513.dwg
+                    └── U-FLANGE END_5WGE_211007.bak
+                    └── U-FLANGE END_5WGE_211007.dwg
+                    └── U-FLANGE END_5WGE_220110.bak
+                    └── U-FLANGE END_5WGE_220110.dwg
+                    └── U-FLANGE END_5WGE_220224.bak
+                    └── U-FLANGE END_5WGE_220224.dwg
+                    └── U-FLANGE END_5WGE_220314.bak
+                    └── U-FLANGE END_5WGE_220314.dwg
+            📁 04. END BOX
+                📁 3W
+                    └── Drawing1.dwl
+                    └── Drawing1.dwl2
+                    └── U-END BOX_3W3H_210518.bak
+                    └── U-END BOX_3W3H_210518.dwg
+                    └── U-END BOX_3W3H_211007.dwg
+                    └── U-END BOX_3W3H_220314.dwg
+                    └── U-END BOX_3W3H_220314.dwl
+                    └── U-END BOX_3W3H_220314.dwl2
+                📁 4W
+                    └── U-END BOX_4W4H_210524.bak
+                    └── U-END BOX_4W4H_210524.dwg
+                    └── U-END BOX_4W4H_211007.bak
+                    └── U-END BOX_4W4H_211007.dwg
+                    └── U-END BOX_4W4H_220113.dwg
+                    └── U-END BOX_4W4H_220314.dwg
+                    └── U-END BOX_4W4H_220314.dwl
+                    └── U-END BOX_4W4H_220314.dwl2
+                📁 5W
+                    └── U-END BOX_5WGE_210528.dwg
+                    └── U-END BOX_5WGE_211007.bak
+                    └── U-END BOX_5WGE_211007.dwg
+                    └── U-END BOX_5WGE_220314.bak
+                    └── U-END BOX_5WGE_220314.dwg
+            📁 05. FEED IN BOX(TAP BOX)
+                └── TAP BOX DETAIL_AL,CU_3W,4W_Rev.1.dwg
+            📁 06. ELBOW
+                📁 H.ELBOW
+                    📁 3W
+                    📁 4W
+                    📁 5W
+                📁 V.ELBOW
+                    📁 3W
+                    📁 4W
+                    📁 5W
+            📁 07. OFF SET
+                📁 H.OFF SET
+                    📁 3W
+                    📁 4W
+                    📁 5W
+                📁 V.OFF SET
+                    📁 3W
+                    📁 4W
+                    📁 5W
+            📁 08. COMBINATION
+                📁 3W
+                    └── U-COMBINATION_3W3H_210617.bak
+                    └── U-COMBINATION_3W3H_210617.dwg
+                📁 4W
+                    └── U-COMBINATION_4W4H_210617.bak
+                    └── U-COMBINATION_4W4H_210617.dwg
+                📁 5W
+                    └── U-COMBINATION_5W_210622.bak
+                    └── U-COMBINATION_5W_210622.dwg
+            📁 09. EXPANSION JOINT
+                📁 3WGE
+                    └── plot.log
+                    └── U_EXPANSION_3WGE_221124.dwg
+                    └── U_EXPANSION_3WGE_230215.dwg
+                    └── U_EXPANSION_3WGE_630A.pdf
+                    📁 이전파일
+                    └── 절연격판고정대.pdf
+                📁 4WGE
+                    └── U_EXPANSION_4WGE_210728.dwg
+                    └── U_EXPANSION_4WGE_210811.dwg
+                    └── U_EXPANSION_4WGE_210823.dwg
+                    └── U_EXPANSION_4WGE_210902.dwg
+                    └── U_EXPANSION_4WGE_210915.dwg
+                    └── U_EXPANSION_4WGE_211014.dwg
+                    └── U_EXPANSION_4WGE_230215.bak
+                    └── U_EXPANSION_4WGE_230215.dwg
+                └── UL_익스펜션_홀위치변경_230210.dwg
+                📁 도체
+                    └── U_EXPANSION_3WGE 도체-1.pdf
+                    └── U_EXPANSION_3WGE 도체-2.pdf
+                    └── U_EXPANSION_3WGE 도체_230215.dwg
+                    └── U_EXPANSION_4WGE 도체-1.pdf
+                    └── U_EXPANSION_4WGE 도체-2.pdf
+                    └── U_EXPANSION_4WGE 도체_230215.dwg
+                    📁 이전파일
+                └── 익스.PNG
+                📁 입상부
+                    └── [USA] LSCUS_EXPANSION(12-0264,0265)-LS01.dwg
+                    └── _USA_ LSCUS EXPANSION(UL) 관련의 건.msg
+                └── 플렉시블도체.pdf
+            📁 10. TEE
+                📁 H_TEE
+                    📁 3W
+                    📁 4W
+                    📁 5W
+                📁 V_TEE
+            📁 11. END CLOSURE
+                └── U-series 3W,4W,4WHE 엔드클로져 표준도면 (21.05.21) Rev.2.dwg
+            📁 12. REVIT FILES
+                📁 01 FEEDER
+                    └── E-Series FEEDER 3WGE 1STACK.0001.rfa
+                    └── E-Series FEEDER 3WGE 2STACK.rfa
+                    └── E-Series FEEDER 3WGE 3STACK.rfa
+                    └── E-Series FEEDER 3WHE 1STACK.rfa
+                    └── E-Series FEEDER 3WHE 2STACK.rfa
+                    └── E-Series FEEDER 3WHE 3STACK.rfa
+                    └── E-Series FEEDER 4WFE 1STACK.rfa
+                    └── E-Series FEEDER 4WFE 2STACK.rfa
+                    └── E-Series FEEDER 4WFE 3STACK.rfa
+                    └── E-Series FEEDER 4WFEDN 1STACK.rfa
+                    └── E-Series FEEDER 4WFEDN 2STACK.rfa
+                    └── E-Series FEEDER 4WFEDN 3STACK.rfa
+                    └── E-Series FEEDER 4WGE 1STACK.rfa
+                    └── E-Series FEEDER 4WGE 2STACK.rfa
+                    └── E-Series FEEDER 4WGE 3STACK.rfa
+                    └── E-Series FEEDER 4WHE 1STACK.rfa
+                    └── E-Series FEEDER 4WHE 2STACK.rfa
+                    └── E-Series FEEDER 4WHE 3STACK.rfa
+                📁 02 PH.FEEDER
+                    📁 3W
+                        └── E-Series PH 2 FEEDER 3WGE 1STACK.rfa
+                        └── E-Series PH 2 FEEDER 3WGE 2STACK.rfa
+                        └── E-Series PH 2 FEEDER 3WGE 3STACK.rfa
+                        └── E-Series PH 2 FEEDER 3WHE 1STACK.rfa
+                        └── E-Series PH 2 FEEDER 3WHE 2STACK.rfa
+                        └── E-Series PH 2 FEEDER 3WHE 3STACK.rfa
+                        └── E-Series PH 3 FEEDER 3WGE 1STACK.rfa
+                        └── E-Series PH 3 FEEDER 3WGE 2STACK.rfa
+                        └── E-Series PH 3 FEEDER 3WGE 3STACK.rfa
+                        └── E-Series PH 3 FEEDER 3WHE 1STACK.rfa
+                        └── E-Series PH 3 FEEDER 3WHE 2STACK.rfa
+                        └── E-Series PH 3 FEEDER 3WHE 3STACK.rfa
+                        └── E-Series PH 4 FEEDER 3WGE 1STACK.rfa
+                        └── E-Series PH 4 FEEDER 3WGE 2STACK.rfa
+                        └── E-Series PH 4 FEEDER 3WGE 3STACK.rfa
+                        └── E-Series PH 4 FEEDER 3WHE 1STACK.rfa
+                        └── E-Series PH 4 FEEDER 3WHE 2STACK.rfa
+                        └── E-Series PH 4 FEEDER 3WHE 3STACK.rfa
+                        └── E-Series PH 5 FEEDER 3WGE 1STACK.rfa
+                        └── E-Series PH 5 FEEDER 3WGE 2STACK.rfa
+                        └── E-Series PH 5 FEEDER 3WGE 3STACK.rfa
+                        └── E-Series PH 5 FEEDER 3WHE 1STACK.rfa
+                        └── E-Series PH 5 FEEDER 3WHE 2STACK.rfa
+                        └── E-Series PH 5 FEEDER 3WHE 3STACK.rfa
+                    📁 4W
+                        └── E-Series PH 2 FEEDER 4WGE 1STACK.rfa
+                        └── E-Series PH 2 FEEDER 4WGE 2STACK.rfa
+                        └── E-Series PH 2 FEEDER 4WGE 3STACK.rfa
+                        └── E-Series PH 2 FEEDER 4WHE 1STACK.rfa
+                        └── E-Series PH 2 FEEDER 4WHE 2STACK.rfa
+                        └── E-Series PH 2 FEEDER 4WHE 3STACK.rfa
+                        └── E-Series PH 3 FEEDER 4WGE 1STACK.rfa
+                        └── E-Series PH 3 FEEDER 4WGE 2STACK.rfa
+                        └── E-Series PH 3 FEEDER 4WGE 3STACK.rfa
+                        └── E-Series PH 3 FEEDER 4WHE 1STACK.rfa
+                        └── E-Series PH 3 FEEDER 4WHE 2STACK.rfa
+                        └── E-Series PH 3 FEEDER 4WHE 3STACK.rfa
+                        └── E-Series PH 4 FEEDER 4WGE 1STACK.rfa
+                        └── E-Series PH 4 FEEDER 4WGE 2STACK.rfa
+                        └── E-Series PH 4 FEEDER 4WGE 3STACK.rfa
+                        └── E-Series PH 4 FEEDER 4WHE 1STACK.rfa
+                        └── E-Series PH 4 FEEDER 4WHE 2STACK.rfa
+                        └── E-Series PH 4 FEEDER 4WHE 3STACK.rfa
+                        └── E-Series PH 5 FEEDER 4WGE 1STACK.rfa
+                        └── E-Series PH 5 FEEDER 4WGE 2STACK.rfa
+                        └── E-Series PH 5 FEEDER 4WGE 3STACK.rfa
+                        └── E-Series PH 5 FEEDER 4WHE 1STACK.rfa
+                        └── E-Series PH 5 FEEDER 4WHE 2STACK.rfa
+                        └── E-Series PH 5 FEEDER 4WHE 3STACK.rfa
+                📁 03 TAP.FEEDER
+                    └── E-Series TAP FEEDER 3WGE 1STACK.rfa
+                    └── E-Series TAP FEEDER 3WGE 2STACK.rfa
+                    └── E-Series TAP FEEDER 3WGE 3STACK.rfa
+                    └── E-Series TAP FEEDER 3WHE 1STACK.rfa
+                    └── E-Series TAP FEEDER 3WHE 2STACK.rfa
+                    └── E-Series TAP FEEDER 3WHE 3STACK.rfa
+                    └── E-Series TAP FEEDER 4WGE 1STACK.rfa
+                    └── E-Series TAP FEEDER 4WGE 2STACK.rfa
+                    └── E-Series TAP FEEDER 4WGE 3STACK.rfa
+                    └── E-Series TAP FEEDER 4WHE 1STACK.rfa
+                    └── E-Series TAP FEEDER 4WHE 2STACK.rfa
+                    └── E-Series TAP FEEDER 4WHE 3STACK.rfa
+                📁 04 FLANGED END
+                    └── E-Series COMB-ELBOW FLANGED END 3WGE 1STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 3WGE 1STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 3WGE 1STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 3WGE 1STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 3WGE 2STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 3WGE 2STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 3WGE 2STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 3WGE 2STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 3WGE 3STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 3WGE 3STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 3WGE 3STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 3WGE 3STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 3WHE 1STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 3WHE 1STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 3WHE 1STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 3WHE 1STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 3WHE 2STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 3WHE 2STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 3WHE 2STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 3WHE 2STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 3WHE 3STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 3WHE 3STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 3WHE 3STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 3WHE 3STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 4WGE 1STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 4WGE 1STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 4WGE 1STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 4WGE 1STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 4WGE 2STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 4WGE 2STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 4WGE 2STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 4WGE 2STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 4WGE 3STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 4WGE 3STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 4WGE 3STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 4WHE 1STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 4WHE 1STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 4WHE 1STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 4WHE 1STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 4WHE 2STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 4WHE 2STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 4WHE 2STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 4WHE 2STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 4WHE 3STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 4WHE 3STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 4WHE 3STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END 4WHE 3STACK(UPRW).rfa
+                    └── E-Series FEEDER FLANGED END 3WGE 1STACK.rfa
+                    └── E-Series FEEDER FLANGED END 3WGE 2STACK.rfa
+                    └── E-Series FEEDER FLANGED END 3WGE 3STACK.rfa
+                    └── E-Series FEEDER FLANGED END 3WHE 1STACK.rfa
+                    └── E-Series FEEDER FLANGED END 3WHE 2STACK.rfa
+                    └── E-Series FEEDER FLANGED END 3WHE 3STACK.rfa
+                    └── E-Series FEEDER FLANGED END 4WGE 1STACK.rfa
+                    └── E-Series FEEDER FLANGED END 4WGE 2STACK.rfa
+                    └── E-Series FEEDER FLANGED END 4WGE 3STACK.rfa
+                    └── E-Series FEEDER FLANGED END 4WHE 1STACK.rfa
+                    └── E-Series FEEDER FLANGED END 4WHE 2STACK.rfa
+                    └── E-Series FEEDER FLANGED END 4WHE 3STACK.rfa
+                    └── E-Series H-ELBOW FLANGED END 3WGE 1STACK.rfa
+                    └── E-Series H-ELBOW FLANGED END 3WGE 2STACK.rfa
+                    └── E-Series H-ELBOW FLANGED END 3WGE 3STACK.rfa
+                    └── E-Series H-ELBOW FLANGED END 3WHE 1STACK.rfa
+                    └── E-Series H-ELBOW FLANGED END 3WHE 2STACK.rfa
+                    └── E-Series H-ELBOW FLANGED END 3WHE 3STACK.rfa
+                    └── E-Series H-ELBOW FLANGED END 4WGE 1STACK.rfa
+                    └── E-Series H-ELBOW FLANGED END 4WGE 2STACK.rfa
+                    └── E-Series H-ELBOW FLANGED END 4WGE 3STACK.rfa
+                    └── E-Series H-ELBOW FLANGED END 4WHE 1STACK.rfa
+                    └── E-Series H-ELBOW FLANGED END 4WHE 2STACK.rfa
+                    └── E-Series H-ELBOW FLANGED END 4WHE 3STACK.rfa
+                    └── E-Series H-OFFSET FLANGED END 3WGE 1STACK.rfa
+                    └── E-Series H-OFFSET FLANGED END 3WGE 2STACK.rfa
+                    └── E-Series H-OFFSET FLANGED END 3WGE 3STACK.rfa
+                    └── E-Series H-OFFSET FLANGED END 3WHE 1STACK.rfa
+                    └── E-Series H-OFFSET FLANGED END 3WHE 2STACK.rfa
+                    └── E-Series H-OFFSET FLANGED END 3WHE 3STACK.rfa
+                    └── E-Series H-OFFSET FLANGED END 4WGE 1STACK.rfa
+                    └── E-Series H-OFFSET FLANGED END 4WGE 2STACK.rfa
+                    └── E-Series H-OFFSET FLANGED END 4WGE 3STACK.rfa
+                    └── E-Series H-OFFSET FLANGED END 4WHE 1STACK.rfa
+                    └── E-Series H-OFFSET FLANGED END 4WHE 2STACK.rfa
+                    └── E-Series H-OFFSET FLANGED END 4WHE 3STACK.rfa
+                    └── E-Series V-ELBOW FLANGED END 3WGE 1STACK.rfa
+                    └── E-Series V-ELBOW FLANGED END 3WGE 2STACK.rfa
+                    └── E-Series V-ELBOW FLANGED END 3WGE 3STACK.rfa
+                    └── E-Series V-ELBOW FLANGED END 3WHE 1STACK.rfa
+                    └── E-Series V-ELBOW FLANGED END 3WHE 2STACK.rfa
+                    └── E-Series V-ELBOW FLANGED END 3WHE 3STACK.rfa
+                    └── E-Series V-ELBOW FLANGED END 4WGE 1STACK.rfa
+                    └── E-Series V-ELBOW FLANGED END 4WGE 2STACK.rfa
+                    └── E-Series V-ELBOW FLANGED END 4WGE 3STACK.rfa
+                    └── E-Series V-ELBOW FLANGED END 4WHE 1STACK.rfa
+                    └── E-Series V-ELBOW FLANGED END 4WHE 2STACK.rfa
+                    └── E-Series V-ELBOW FLANGED END 4WHE 3STACK.rfa
+                    └── E-Series V-OFFSET FLANGED END 3WGE 1STACK.rfa
+                    └── E-Series V-OFFSET FLANGED END 3WGE 2STACK.rfa
+                    └── E-Series V-OFFSET FLANGED END 3WGE 3STACK.rfa
+                    └── E-Series V-OFFSET FLANGED END 3WHE 1STACK.rfa
+                    └── E-Series V-OFFSET FLANGED END 3WHE 2STACK.rfa
+                    └── E-Series V-OFFSET FLANGED END 3WHE 3STACK.rfa
+                    └── E-Series V-OFFSET FLANGED END 4WGE 1STACK.rfa
+                    └── E-Series V-OFFSET FLANGED END 4WGE 2STACK.rfa
+                    └── E-Series V-OFFSET FLANGED END 4WGE 3STACK.rfa
+                    └── E-Series V-OFFSET FLANGED END 4WHE 1STACK.rfa
+                    └── E-Series V-OFFSET FLANGED END 4WHE 2STACK.rfa
+                    └── E-Series V-OFFSET FLANGED END 4WHE 3STACK.rfa
+                📁 05 FLANGED END BOX
+                    └── E-Series COMB-ELBOW FLANGED END BOX 3WGE 1STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 3WGE 1STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 3WGE 1STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 3WGE 1STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 3WGE 2STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 3WGE 2STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 3WGE 2STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 3WGE 2STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 3WGE 3STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 3WGE 3STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 3WGE 3STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 3WGE 3STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 3WHE 1STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 3WHE 1STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 3WHE 1STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 3WHE 1STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 3WHE 2STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 3WHE 2STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 3WHE 2STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 3WHE 2STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 3WHE 3STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 3WHE 3STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 3WHE 3STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 3WHE 3STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 4WGE 1STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 4WGE 1STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 4WGE 1STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 4WGE 1STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 4WGE 2STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 4WGE 2STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 4WGE 2STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 4WGE 2STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 4WGE 3STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 4WGE 3STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 4WGE 3STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 4WGE 3STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 4WHE 1STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 4WHE 1STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 4WHE 1STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 4WHE 1STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 4WHE 2STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 4WHE 2STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 4WHE 2STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 4WHE 2STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 4WHE 3STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 4WHE 3STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 4WHE 3STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW FLANGED END BOX 4WHE 3STACK(UPRW).rfa
+                    └── E-Series FEEDER FLANGED END BOX 3WGE 1STACK.rfa
+                    └── E-Series FEEDER FLANGED END BOX 3WGE 2STACK.rfa
+                    └── E-Series FEEDER FLANGED END BOX 3WGE 3STACK.rfa
+                    └── E-Series FEEDER FLANGED END BOX 3WHE 1STACK.rfa
+                    └── E-Series FEEDER FLANGED END BOX 3WHE 2STACK.rfa
+                    └── E-Series FEEDER FLANGED END BOX 3WHE 3STACK.rfa
+                    └── E-Series FEEDER FLANGED END BOX 4WGE 1STACK.rfa
+                    └── E-Series FEEDER FLANGED END BOX 4WGE 2STACK.rfa
+                    └── E-Series FEEDER FLANGED END BOX 4WGE 3STACK.rfa
+                    └── E-Series FEEDER FLANGED END BOX 4WHE 1STACK.rfa
+                    └── E-Series FEEDER FLANGED END BOX 4WHE 2STACK.rfa
+                    └── E-Series FEEDER FLANGED END BOX 4WHE 3STACK.rfa
+                    └── E-Series H-ELBOW FLANGED END BOX 3WGE 1STACK.rfa
+                    └── E-Series H-ELBOW FLANGED END BOX 3WGE 2STACK.rfa
+                    └── E-Series H-ELBOW FLANGED END BOX 3WGE 3STACK.rfa
+                    └── E-Series H-ELBOW FLANGED END BOX 3WHE 1STACK.rfa
+                    └── E-Series H-ELBOW FLANGED END BOX 3WHE 2STACK.rfa
+                    └── E-Series H-ELBOW FLANGED END BOX 3WHE 3STACK.rfa
+                    └── E-Series H-ELBOW FLANGED END BOX 4WGE 1STACK.rfa
+                    └── E-Series H-ELBOW FLANGED END BOX 4WGE 2STACK.rfa
+                    └── E-Series H-ELBOW FLANGED END BOX 4WGE 3STACK.rfa
+                    └── E-Series H-ELBOW FLANGED END BOX 4WHE 1STACK.rfa
+                    └── E-Series H-ELBOW FLANGED END BOX 4WHE 2STACK.rfa
+                    └── E-Series H-ELBOW FLANGED END BOX 4WHE 3STACK.rfa
+                    └── E-Series H-OFFSET FLANGED END BOX 3WGE 1STACK.rfa
+                    └── E-Series H-OFFSET FLANGED END BOX 3WGE 2STACK.rfa
+                    └── E-Series H-OFFSET FLANGED END BOX 3WGE 3STACK.rfa
+                    └── E-Series H-OFFSET FLANGED END BOX 3WHE 1STACK.rfa
+                    └── E-Series H-OFFSET FLANGED END BOX 3WHE 2STACK.rfa
+                    └── E-Series H-OFFSET FLANGED END BOX 3WHE 3STACK.rfa
+                    └── E-Series H-OFFSET FLANGED END BOX 4WGE 1STACK.rfa
+                    └── E-Series H-OFFSET FLANGED END BOX 4WGE 2STACK.rfa
+                    └── E-Series H-OFFSET FLANGED END BOX 4WGE 3STACK.rfa
+                    └── E-Series H-OFFSET FLANGED END BOX 4WHE 1STACK.rfa
+                    └── E-Series H-OFFSET FLANGED END BOX 4WHE 2STACK.rfa
+                    └── E-Series H-OFFSET FLANGED END BOX 4WHE 3STACK.rfa
+                    └── E-Series V-ELBOW FLANGED END BOX 3WGE 1STACK.rfa
+                    └── E-Series V-ELBOW FLANGED END BOX 3WGE 2STACK.rfa
+                    └── E-Series V-ELBOW FLANGED END BOX 3WGE 3STACK.rfa
+                    └── E-Series V-ELBOW FLANGED END BOX 3WHE 1STACK.rfa
+                    └── E-Series V-ELBOW FLANGED END BOX 3WHE 2STACK.rfa
+                    └── E-Series V-ELBOW FLANGED END BOX 3WHE 3STACK.rfa
+                    └── E-Series V-ELBOW FLANGED END BOX 4WGE 1STACK.rfa
+                    └── E-Series V-ELBOW FLANGED END BOX 4WGE 2STACK.rfa
+                    └── E-Series V-ELBOW FLANGED END BOX 4WGE 3STACK.rfa
+                    └── E-Series V-ELBOW FLANGED END BOX 4WHE 1STACK.rfa
+                    └── E-Series V-ELBOW FLANGED END BOX 4WHE 2STACK.rfa
+                    └── E-Series V-ELBOW FLANGED END BOX 4WHE 3STACK.rfa
+                    └── E-Series V-OFFSET FLANGED END BOX 3WGE 1STACK.rfa
+                    └── E-Series V-OFFSET FLANGED END BOX 3WGE 2STACK.rfa
+                    └── E-Series V-OFFSET FLANGED END BOX 3WGE 3STACK.rfa
+                    └── E-Series V-OFFSET FLANGED END BOX 3WHE 1STACK.rfa
+                    └── E-Series V-OFFSET FLANGED END BOX 3WHE 2STACK.rfa
+                    └── E-Series V-OFFSET FLANGED END BOX 3WHE 3STACK.rfa
+                    └── E-Series V-OFFSET FLANGED END BOX 4WGE 1STACK.rfa
+                    └── E-Series V-OFFSET FLANGED END BOX 4WGE 2STACK.rfa
+                    └── E-Series V-OFFSET FLANGED END BOX 4WGE 3STACK.rfa
+                    └── E-Series V-OFFSET FLANGED END BOX 4WHE 1STACK.rfa
+                    └── E-Series V-OFFSET FLANGED END BOX 4WHE 2STACK.rfa
+                    └── E-Series V-OFFSET FLANGED END BOX 4WHE 3STACK.rfa
+                📁 06 H.ELBOW
+                    └── E-Series H-ELBOW 3WGE 1STACK.rfa
+                    └── E-Series H-ELBOW 3WGE 2STACK.rfa
+                    └── E-Series H-ELBOW 3WGE 3STACK.rfa
+                    └── E-Series H-ELBOW 3WHE 1STACK.rfa
+                    └── E-Series H-ELBOW 3WHE 2STACK.rfa
+                    └── E-Series H-ELBOW 3WHE 3STACK.rfa
+                    └── E-Series H-ELBOW 4WFE 1STACK.rfa
+                    └── E-Series H-ELBOW 4WFE 2STACK.rfa
+                    └── E-Series H-ELBOW 4WFE 3STACK.rfa
+                    └── E-Series H-ELBOW 4WFEDN 1STACK.rfa
+                    └── E-Series H-ELBOW 4WFEDN 2STACK.rfa
+                    └── E-Series H-ELBOW 4WFEDN 3STACK.rfa
+                    └── E-Series H-ELBOW 4WGE 1STACK.rfa
+                    └── E-Series H-ELBOW 4WGE 2STACK.rfa
+                    └── E-Series H-ELBOW 4WGE 3STACK.rfa
+                    └── E-Series H-ELBOW 4WHE 1STACK.rfa
+                    └── E-Series H-ELBOW 4WHE 2STACK.rfa
+                    └── E-Series H-ELBOW 4WHE 3STACK.rfa
+                📁 07 V.ELBOW
+                    └── E-Series V-ELBOW 3WGE 1STACK.rfa
+                    └── E-Series V-ELBOW 3WGE 2STACK.rfa
+                    └── E-Series V-ELBOW 3WGE 3STACK.rfa
+                    └── E-Series V-ELBOW 3WHE 1STACK.rfa
+                    └── E-Series V-ELBOW 3WHE 2STACK.rfa
+                    └── E-Series V-ELBOW 3WHE 3STACK.rfa
+                    └── E-Series V-ELBOW 4WFE 1STACK.rfa
+                    └── E-Series V-ELBOW 4WFE 2STACK.rfa
+                    └── E-Series V-ELBOW 4WFE 3STACK.rfa
+                    └── E-Series V-ELBOW 4WFEDN 1STACK.rfa
+                    └── E-Series V-ELBOW 4WFEDN 2STACK.rfa
+                    └── E-Series V-ELBOW 4WFEDN 3STACK.rfa
+                    └── E-Series V-ELBOW 4WGE 1STACK.rfa
+                    └── E-Series V-ELBOW 4WGE 2STACK.rfa
+                    └── E-Series V-ELBOW 4WGE 3STACK.rfa
+                    └── E-Series V-ELBOW 4WHE 1STACK.rfa
+                    └── E-Series V-ELBOW 4WHE 2STACK.rfa
+                    └── E-Series V-ELBOW 4WHE 3STACK.rfa
+                📁 08 H.OFFSET
+                    └── E-Series H-OFFSET 3WGE 1STACK.rfa
+                    └── E-Series H-OFFSET 3WGE 2STACK.rfa
+                    └── E-Series H-OFFSET 3WGE 3STACK.rfa
+                    └── E-Series H-OFFSET 3WHE 1STACK.rfa
+                    └── E-Series H-OFFSET 3WHE 2STACK.rfa
+                    └── E-Series H-OFFSET 3WHE 3STACK.rfa
+                    └── E-Series H-OFFSET 4WFE 1STACK.rfa
+                    └── E-Series H-OFFSET 4WFE 2STACK.rfa
+                    └── E-Series H-OFFSET 4WFE 3STACK.rfa
+                    └── E-Series H-OFFSET 4WFEDN 1STACK.rfa
+                    └── E-Series H-OFFSET 4WFEDN 2STACK.rfa
+                    └── E-Series H-OFFSET 4WFEDN 3STACK.rfa
+                    └── E-Series H-OFFSET 4WGE 1STACK.rfa
+                    └── E-Series H-OFFSET 4WGE 2STACK.rfa
+                    └── E-Series H-OFFSET 4WGE 3STACK.rfa
+                    └── E-Series H-OFFSET 4WHE 1STACK.rfa
+                    └── E-Series H-OFFSET 4WHE 2STACK.rfa
+                    └── E-Series H-OFFSET 4WHE 3STACK.rfa
+                📁 09 V.OFFSET
+                    └── E-Series V-OFFSET 3WGE 1STACK.rfa
+                    └── E-Series V-OFFSET 3WGE 2STACK.rfa
+                    └── E-Series V-OFFSET 3WGE 3STACK.rfa
+                    └── E-Series V-OFFSET 3WHE 1STACK.rfa
+                    └── E-Series V-OFFSET 3WHE 2STACK.rfa
+                    └── E-Series V-OFFSET 3WHE 3STACK.rfa
+                    └── E-Series V-OFFSET 4WFE 1STACK.rfa
+                    └── E-Series V-OFFSET 4WFE 2STACK.rfa
+                    └── E-Series V-OFFSET 4WFE 3STACK.rfa
+                    └── E-Series V-OFFSET 4WFEDN 1STACK.rfa
+                    └── E-Series V-OFFSET 4WFEDN 2STACK.rfa
+                    └── E-Series V-OFFSET 4WFEDN 3STACK.rfa
+                    └── E-Series V-OFFSET 4WGE 1STACK.rfa
+                    └── E-Series V-OFFSET 4WGE 2STACK.rfa
+                    └── E-Series V-OFFSET 4WGE 3STACK.rfa
+                    └── E-Series V-OFFSET 4WHE 1STACK.rfa
+                    └── E-Series V-OFFSET 4WHE 2STACK.rfa
+                    └── E-Series V-OFFSET 4WHE 3STACK.rfa
+                📁 10 COMB.ELBOW
+                    └── E-Series COMB-ELBOW 3WGE 1STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW 3WGE 1STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW 3WGE 1STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW 3WGE 1STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW 3WGE 2STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW 3WGE 2STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW 3WGE 2STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW 3WGE 2STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW 3WGE 3STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW 3WGE 3STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW 3WGE 3STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW 3WGE 3STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW 3WHE 1STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW 3WHE 1STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW 3WHE 1STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW 3WHE 1STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW 3WHE 2STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW 3WHE 2STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW 3WHE 2STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW 3WHE 2STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW 3WHE 3STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW 3WHE 3STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW 3WHE 3STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW 3WHE 3STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW 4WFE 1STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW 4WFE 1STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW 4WFE 1STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW 4WFE 1STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW 4WFE 2STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW 4WFE 2STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW 4WFE 2STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW 4WFE 2STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW 4WFE 3STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW 4WFE 3STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW 4WFE 3STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW 4WFE 3STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW 4WFEDN 1STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW 4WFEDN 1STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW 4WFEDN 1STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW 4WFEDN 1STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW 4WFEDN 2STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW 4WFEDN 2STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW 4WFEDN 2STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW 4WFEDN 2STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW 4WFEDN 3STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW 4WFEDN 3STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW 4WFEDN 3STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW 4WFEDN 3STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW 4WGE 1STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW 4WGE 1STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW 4WGE 1STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW 4WGE 1STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW 4WGE 2STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW 4WGE 2STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW 4WGE 2STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW 4WGE 2STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW 4WGE 3STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW 4WGE 3STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW 4WGE 3STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW 4WGE 3STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW 4WHE 1STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW 4WHE 1STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW 4WHE 1STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW 4WHE 1STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW 4WHE 2STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW 4WHE 2STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW 4WHE 2STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW 4WHE 2STACK(UPRW).rfa
+                    └── E-Series COMB-ELBOW 4WHE 3STACK(FWUP).rfa
+                    └── E-Series COMB-ELBOW 4WHE 3STACK(RWUP).rfa
+                    └── E-Series COMB-ELBOW 4WHE 3STACK(UPFW).rfa
+                    └── E-Series COMB-ELBOW 4WHE 3STACK(UPRW).rfa
+                📁 11 H.TEE
+                    └── E-Series H-TEE 3WGE 1STACK.rfa
+                    └── E-Series H-TEE 3WGE 2STACK.rfa
+                    └── E-Series H-TEE 3WGE 3STACK.rfa
+                    └── E-Series H-TEE 3WHE 1STACK.rfa
+                    └── E-Series H-TEE 3WHE 2STACK.rfa
+                    └── E-Series H-TEE 3WHE 3STACK.rfa
+                    └── E-Series H-TEE 4WFE 1STACK.rfa
+                    └── E-Series H-TEE 4WFE 2STACK.rfa
+                    └── E-Series H-TEE 4WFE 3STACK.rfa
+                    └── E-Series H-TEE 4WFEDN 1STACK.rfa
+                    └── E-Series H-TEE 4WFEDN 2STACK.rfa
+                    └── E-Series H-TEE 4WFEDN 3STACK.rfa
+                    └── E-Series H-TEE 4WGE 1STACK.rfa
+                    └── E-Series H-TEE 4WGE 2STACK.rfa
+                    └── E-Series H-TEE 4WGE 3STACK.rfa
+                    └── E-Series H-TEE 4WHE 1STACK.rfa
+                    └── E-Series H-TEE 4WHE 2STACK.rfa
+                    └── E-Series H-TEE 4WHE 3STACK.rfa
+                📁 12 V.TEE
+                    └── E-Series V-TEE 3WGE 1STACK.rfa
+                    └── E-Series V-TEE 3WGE 2STACK.rfa
+                    └── E-Series V-TEE 3WGE 3STACK.rfa
+                    └── E-Series V-TEE 3WHE 1STACK.rfa
+                    └── E-Series V-TEE 3WHE 2STACK.rfa
+                    └── E-Series V-TEE 3WHE 3STACK.rfa
+                    └── E-Series V-TEE 4WFE 1STACK.rfa
+                    └── E-Series V-TEE 4WFE 2STACK.rfa
+                    └── E-Series V-TEE 4WFE 3STACK.rfa
+                    └── E-Series V-TEE 4WFEDN 1STACK.rfa
+                    └── E-Series V-TEE 4WFEDN 2STACK.rfa
+                    └── E-Series V-TEE 4WFEDN 3STACK.rfa
+                    └── E-Series V-TEE 4WGE 1STACK.rfa
+                    └── E-Series V-TEE 4WGE 2STACK.rfa
+                    └── E-Series V-TEE 4WGE 3STACK.rfa
+                    └── E-Series V-TEE 4WHE 1STACK.rfa
+                    └── E-Series V-TEE 4WHE 2STACK.rfa
+                    └── E-Series V-TEE 4WHE 3STACK.rfa
+                📁 13 CROSS
+                    └── E-Series CROSS 3WGE 1STACK.rfa
+                    └── E-Series CROSS 3WGE 2STACK.rfa
+                    └── E-Series CROSS 3WGE 3STACK.rfa
+                    └── E-Series CROSS 3WHE 1STACK.rfa
+                    └── E-Series CROSS 3WHE 2STACK.rfa
+                    └── E-Series CROSS 3WHE 3STACK.rfa
+                    └── E-Series CROSS 4WFE 1STACK.rfa
+                    └── E-Series CROSS 4WFE 2STACK.rfa
+                    └── E-Series CROSS 4WFE 3STACK.rfa
+                    └── E-Series CROSS 4WFEDN 1STACK.rfa
+                    └── E-Series CROSS 4WFEDN 2STACK.rfa
+                    └── E-Series CROSS 4WFEDN 3STACK.rfa
+                    └── E-Series CROSS 4WGE 1STACK.rfa
+                    └── E-Series CROSS 4WGE 2STACK.rfa
+                    └── E-Series CROSS 4WGE 3STACK.rfa
+                    └── E-Series CROSS 4WHE 1STACK.rfa
+                    └── E-Series CROSS 4WHE 2STACK.rfa
+                    └── E-Series CROSS 4WHE 3STACK.rfa
+                📁 14 H.ANGLE
+                    └── E-Series H-ELBOW ANGLE 3WGE 1STACK.rfa
+                    └── E-Series H-ELBOW ANGLE 3WGE 2STACK.rfa
+                    └── E-Series H-ELBOW ANGLE 3WGE 3STACK.rfa
+                    └── E-Series H-ELBOW ANGLE 3WHE 1STACK.rfa
+                    └── E-Series H-ELBOW ANGLE 3WHE 2STACK.rfa
+                    └── E-Series H-ELBOW ANGLE 3WHE 3STACK.rfa
+                    └── E-Series H-ELBOW ANGLE 4WFE 1STACK.rfa
+                    └── E-Series H-ELBOW ANGLE 4WFE 2STACK.rfa
+                    └── E-Series H-ELBOW ANGLE 4WFE 3STACK.rfa
+                    └── E-Series H-ELBOW ANGLE 4WFEDN 1STACK.rfa
+                    └── E-Series H-ELBOW ANGLE 4WFEDN 2STACK.rfa
+                    └── E-Series H-ELBOW ANGLE 4WFEDN 3STACK.rfa
+                    └── E-Series H-ELBOW ANGLE 4WGE 1STACK.rfa
+                    └── E-Series H-ELBOW ANGLE 4WGE 2STACK.rfa
+                    └── E-Series H-ELBOW ANGLE 4WGE 3STACK.rfa
+                    └── E-Series H-ELBOW ANGLE 4WHE 1STACK.rfa
+                    └── E-Series H-ELBOW ANGLE 4WHE 2STACK.rfa
+                    └── E-Series H-ELBOW ANGLE 4WHE 3STACK.rfa
+                📁 15 V.ANGLE
+                    └── E-Series V-ELBOW ANGLE 3WGE 1STACK.rfa
+                    └── E-Series V-ELBOW ANGLE 3WGE 2STACK.rfa
+                    └── E-Series V-ELBOW ANGLE 3WGE 3STACK.rfa
+                    └── E-Series V-ELBOW ANGLE 3WHE 1STACK.rfa
+                    └── E-Series V-ELBOW ANGLE 3WHE 2STACK.rfa
+                    └── E-Series V-ELBOW ANGLE 3WHE 3STACK.rfa
+                    └── E-Series V-ELBOW ANGLE 4WFE 1STACK.rfa
+                    └── E-Series V-ELBOW ANGLE 4WFE 2STACK.rfa
+                    └── E-Series V-ELBOW ANGLE 4WFE 3STACK.rfa
+                    └── E-Series V-ELBOW ANGLE 4WFEDN 1STACK.rfa
+                    └── E-Series V-ELBOW ANGLE 4WFEDN 2STACK.rfa
+                    └── E-Series V-ELBOW ANGLE 4WFEDN 3STACK.rfa
+                    └── E-Series V-ELBOW ANGLE 4WGE 1STACK.rfa
+                    └── E-Series V-ELBOW ANGLE 4WGE 2STACK.rfa
+                    └── E-Series V-ELBOW ANGLE 4WGE 3STACK.rfa
+                    └── E-Series V-ELBOW ANGLE 4WHE 1STACK.rfa
+                    └── E-Series V-ELBOW ANGLE 4WHE 2STACK.rfa
+                    └── E-Series V-ELBOW ANGLE 4WHE 3STACK.rfa
+                📁 16 EXPANSION
+                    └── E-Series EXPANSION 3WGE 1STACK.rfa
+                    └── E-Series EXPANSION 3WGE 2STACK.rfa
+                    └── E-Series EXPANSION 3WGE 3STACK.rfa
+                    └── E-Series EXPANSION 3WHE 1STACK.rfa
+                    └── E-Series EXPANSION 3WHE 2STACK.rfa
+                    └── E-Series EXPANSION 3WHE 3STACK.rfa
+                    └── E-Series EXPANSION 4WFE 1STACK.rfa
+                    └── E-Series EXPANSION 4WFE 2STACK.rfa
+                    └── E-Series EXPANSION 4WFE 3STACK.rfa
+                    └── E-Series EXPANSION 4WFEDN 1STACK.rfa
+                    └── E-Series EXPANSION 4WFEDN 2STACK.rfa
+                    └── E-Series EXPANSION 4WFEDN 3STACK.rfa
+                    └── E-Series EXPANSION 4WGE 1STACK.rfa
+                    └── E-Series EXPANSION 4WGE 2STACK.rfa
+                    └── E-Series EXPANSION 4WGE 3STACK.rfa
+                    └── E-Series EXPANSION 4WHE 1STACK.rfa
+                    └── E-Series EXPANSION 4WHE 2STACK.rfa
+                    └── E-Series EXPANSION 4WHE 3STACK.rfa
+                📁 17 REDUCER
+                    └── E-Series REDUCER 1 STACK to 1 STACK (1).rfa
+                    └── E-Series REDUCER 1 STACK to 1 STACK (2).rfa
+                    └── E-Series REDUCER 1 STACK to 1 STACK (3).rfa
+                    └── E-Series REDUCER 2 STACK to 1 STACK (1).rfa
+                    └── E-Series REDUCER 2 STACK to 1 STACK (2).rfa
+                    └── E-Series REDUCER 2 STACK to 1 STACK (3).rfa
+                    └── E-Series REDUCER 2 STACK to 2 STACK (1).rfa
+                    └── E-Series REDUCER 2 STACK to 2 STACK (2).rfa
+                    └── E-Series REDUCER 2 STACK to 2 STACK (3).rfa
+                    └── E-Series REDUCER 3 STACK to 2 STACK (1).rfa
+                    └── E-Series REDUCER 3 STACK to 2 STACK (2).rfa
+                    └── E-Series REDUCER 3 STACK to 2 STACK (3).rfa
+                    └── E-Series REDUCER BOX 1 STACK to 1 STACK (1).rfa
+                    └── E-Series REDUCER BOX 1 STACK to 1 STACK (2).rfa
+                    └── E-Series REDUCER BOX 1 STACK to 1 STACK (3).rfa
+                    └── E-Series REDUCER BOX 2 STACK to 1 STACK (1).rfa
+                    └── E-Series REDUCER BOX 2 STACK to 1 STACK (2).rfa
+                    └── E-Series REDUCER BOX 2 STACK to 1 STACK (3).rfa
+                    └── E-Series REDUCER BOX 2 STACK to 2 STACK (1).rfa
+                    └── E-Series REDUCER BOX 2 STACK to 2 STACK (2).rfa
+                    └── E-Series REDUCER BOX 2 STACK to 2 STACK (3).rfa
+                    └── E-Series REDUCER BOX 3 STACK to 2 STACK (1).rfa
+                    └── E-Series REDUCER BOX 3 STACK to 2 STACK (2).rfa
+                    └── E-Series REDUCER BOX 3 STACK to 2 STACK (3).rfa
+                📁 18 P.T.FEEDER
+                    └── E-Series P-T-FEEDER 3WGE 1STACK.rfa
+                    └── E-Series P-T-FEEDER 3WGE 2STACK.rfa
+                    └── E-Series P-T-FEEDER 3WGE 3STACK.rfa
+                    └── E-Series P-T-FEEDER 3WHE 1STACK.rfa
+                    └── E-Series P-T-FEEDER 3WHE 2STACK.rfa
+                    └── E-Series P-T-FEEDER 3WHE 3STACK.rfa
+                    └── E-Series P-T-FEEDER 4WFE 1STACK.rfa
+                    └── E-Series P-T-FEEDER 4WFE 2STACK.rfa
+                    └── E-Series P-T-FEEDER 4WFE 3STACK.rfa
+                    └── E-Series P-T-FEEDER 4WFEDN 1STACK.rfa
+                    └── E-Series P-T-FEEDER 4WFEDN 2STACK.rfa
+                    └── E-Series P-T-FEEDER 4WFEDN 3STACK.rfa
+                    └── E-Series P-T-FEEDER 4WGE 1STACK.rfa
+                    └── E-Series P-T-FEEDER 4WGE 2STACK.rfa
+                    └── E-Series P-T-FEEDER 4WGE 3STACK.rfa
+                    └── E-Series P-T-FEEDER 4WHE 1STACK.rfa
+                    └── E-Series P-T-FEEDER 4WHE 2STACK.rfa
+                    └── E-Series P-T-FEEDER 4WHE 3STACK.rfa
+                📁 19 TR.CONNECTION FEEDER
+                    └── E-Series TR-CONNECTION FEEDER 3WGE 1STACK.rfa
+                    └── E-Series TR-CONNECTION FEEDER 3WGE 2STACK.rfa
+                    └── E-Series TR-CONNECTION FEEDER 3WGE 3STACK.rfa
+                    └── E-Series TR-CONNECTION FEEDER 3WHE 1STACK.rfa
+                    └── E-Series TR-CONNECTION FEEDER 3WHE 2STACK.rfa
+                    └── E-Series TR-CONNECTION FEEDER 3WHE 3STACK.rfa
+                    └── E-Series TR-CONNECTION FEEDER 4WFE 1STACK.rfa
+                    └── E-Series TR-CONNECTION FEEDER 4WFE 2STACK.rfa
+                    └── E-Series TR-CONNECTION FEEDER 4WFE 3STACK.rfa
+                    └── E-Series TR-CONNECTION FEEDER 4WFEDN 1STACK.rfa
+                    └── E-Series TR-CONNECTION FEEDER 4WFEDN 2STACK.rfa
+                    └── E-Series TR-CONNECTION FEEDER 4WFEDN 3STACK.rfa
+                    └── E-Series TR-CONNECTION FEEDER 4WGE 1STACK.rfa
+                    └── E-Series TR-CONNECTION FEEDER 4WGE 2STACK.rfa
+                    └── E-Series TR-CONNECTION FEEDER 4WGE 3STACK.rfa
+                    └── E-Series TR-CONNECTION FEEDER 4WHE 1STACK.rfa
+                    └── E-Series TR-CONNECTION FEEDER 4WHE 2STACK.rfa
+                    └── E-Series TR-CONNECTION FEEDER 4WHE 3STACK.rfa
+                📁 20 END CLOSURE
+                    └── E-Series END CLOSURE 3WGE.rfa
+                    └── E-Series END CLOSURE 3WHE.rfa
+                    └── E-Series END CLOSURE 4WFE.rfa
+                    └── E-Series END CLOSURE 4WGE.rfa
+                    └── E-Series END CLOSURE 4WHE.rfa
+                📁 21 JOINT COVER
+                    └── E-Series JOINT 3WGE 1STACK.rfa
+                    └── E-Series JOINT 3WGE 2STACK.rfa
+                    └── E-Series JOINT 3WGE 3STACK.rfa
+                    └── E-Series JOINT 3WHE 1STACK.rfa
+                    └── E-Series JOINT 3WHE 2STACK.rfa
+                    └── E-Series JOINT 3WHE 3STACK.rfa
+                    └── E-Series JOINT 4WFE 1STACK.rfa
+                    └── E-Series JOINT 4WFE 2STACK.rfa
+                    └── E-Series JOINT 4WFE 3STACK.rfa
+                    └── E-Series JOINT 4WGE 1STACK.rfa
+                    └── E-Series JOINT 4WGE 2STACK.rfa
+                    └── E-Series JOINT 4WGE 3STACK.rfa
+                    └── E-Series JOINT 4WHE 1STACK.rfa
+                    └── E-Series JOINT 4WHE 2STACK.rfa
+                    └── E-Series JOINT 4WHE 3STACK.rfa
+                📁 22 MR WOO FAMILIES
+                    📁 JONGWON_WOO_Family
+                    └── JONGWON_WOO_Family.zip
+                        📁 01 FEEDER
+                            📁 3WGE
+                                └── E-Series FEEDER 3WGE 1STACK.0001.rfa
+                                └── E-Series FEEDER 3WGE 2STACK.rfa
+                                └── E-Series FEEDER 3WGE 3STACK.rfa
+                            📁 3WHE
+                                └── E-Series FEEDER 3WHE 1STACK.rfa
+                                └── E-Series FEEDER 3WHE 2STACK.rfa
+                                └── E-Series FEEDER 3WHE 3STACK.rfa
+                            📁 4WFE
+                                └── E-Series FEEDER 4WFE 1STACK.rfa
+                                └── E-Series FEEDER 4WFE 2STACK.rfa
+                                └── E-Series FEEDER 4WFE 3STACK.rfa
+                            📁 4WFEDN
+                                └── E-Series FEEDER 4WFEDN 1STACK.rfa
+                                └── E-Series FEEDER 4WFEDN 2STACK.rfa
+                                └── E-Series FEEDER 4WFEDN 3STACK.rfa
+                            📁 4WGE
+                                └── E-Series FEEDER 4WGE 1STACK.rfa
+                                └── E-Series FEEDER 4WGE 2STACK.rfa
+                                └── E-Series FEEDER 4WGE 3STACK.rfa
+                            📁 4WHE
+                                └── E-Series FEEDER 4WHE 1STACK.rfa
+                                └── E-Series FEEDER 4WHE 2STACK.rfa
+                                └── E-Series FEEDER 4WHE 3STACK.rfa
+                        📁 02 PH.FEEDER
+                            📁 3WGE
+                                └── E-Series PH 2 FEEDER 3WGE 1STACK.rfa
+                                └── E-Series PH 2 FEEDER 3WGE 2STACK.rfa
+                                └── E-Series PH 2 FEEDER 3WGE 3STACK.rfa
+                                └── E-Series PH 3 FEEDER 3WGE 1STACK.rfa
+                                └── E-Series PH 3 FEEDER 3WGE 2STACK.rfa
+                                └── E-Series PH 3 FEEDER 3WGE 3STACK.rfa
+                                └── E-Series PH 4 FEEDER 3WGE 1STACK.rfa
+                                └── E-Series PH 4 FEEDER 3WGE 2STACK.rfa
+                                └── E-Series PH 4 FEEDER 3WGE 3STACK.rfa
+                                └── E-Series PH 5 FEEDER 3WGE 1STACK.rfa
+                                └── E-Series PH 5 FEEDER 3WGE 2STACK.rfa
+                                └── E-Series PH 5 FEEDER 3WGE 3STACK.rfa
+                            📁 3WHE
+                                └── E-Series PH 2 FEEDER 3WHE 1STACK.rfa
+                                └── E-Series PH 2 FEEDER 3WHE 2STACK.rfa
+                                └── E-Series PH 2 FEEDER 3WHE 3STACK.rfa
+                                └── E-Series PH 3 FEEDER 3WHE 1STACK.rfa
+                                └── E-Series PH 3 FEEDER 3WHE 2STACK.rfa
+                                └── E-Series PH 3 FEEDER 3WHE 3STACK.rfa
+                                └── E-Series PH 4 FEEDER 3WHE 1STACK.rfa
+                                └── E-Series PH 4 FEEDER 3WHE 2STACK.rfa
+                                └── E-Series PH 4 FEEDER 3WHE 3STACK.rfa
+                                └── E-Series PH 5 FEEDER 3WHE 1STACK.rfa
+                                └── E-Series PH 5 FEEDER 3WHE 2STACK.rfa
+                                └── E-Series PH 5 FEEDER 3WHE 3STACK.rfa
+                            📁 4WGE
+                                └── E-Series PH 2 FEEDER 4WGE 1STACK.rfa
+                                └── E-Series PH 2 FEEDER 4WGE 2STACK.rfa
+                                └── E-Series PH 2 FEEDER 4WGE 3STACK.rfa
+                                └── E-Series PH 3 FEEDER 4WGE 1STACK.rfa
+                                └── E-Series PH 3 FEEDER 4WGE 2STACK.rfa
+                                └── E-Series PH 3 FEEDER 4WGE 3STACK.rfa
+                                └── E-Series PH 4 FEEDER 4WGE 1STACK.rfa
+                                └── E-Series PH 4 FEEDER 4WGE 2STACK.rfa
+                                └── E-Series PH 4 FEEDER 4WGE 3STACK.rfa
+                                └── E-Series PH 5 FEEDER 4WGE 1STACK.rfa
+                                └── E-Series PH 5 FEEDER 4WGE 2STACK.rfa
+                                └── E-Series PH 5 FEEDER 4WGE 3STACK.rfa
+                            📁 4WHE
+                                └── E-Series PH 2 FEEDER 4WHE 1STACK.rfa
+                                └── E-Series PH 2 FEEDER 4WHE 2STACK.rfa
+                                └── E-Series PH 2 FEEDER 4WHE 3STACK.rfa
+                                └── E-Series PH 3 FEEDER 4WHE 1STACK.rfa
+                                └── E-Series PH 3 FEEDER 4WHE 2STACK.rfa
+                                └── E-Series PH 3 FEEDER 4WHE 3STACK.rfa
+                                └── E-Series PH 4 FEEDER 4WHE 1STACK.rfa
+                                └── E-Series PH 4 FEEDER 4WHE 2STACK.rfa
+                                └── E-Series PH 4 FEEDER 4WHE 3STACK.rfa
+                                └── E-Series PH 5 FEEDER 4WHE 1STACK.rfa
+                                └── E-Series PH 5 FEEDER 4WHE 2STACK.rfa
+                                └── E-Series PH 5 FEEDER 4WHE 3STACK.rfa
+                        📁 03 TAP.FEEDER
+                            📁 3WGE
+                                └── E-Series TAP FEEDER 3WGE 1STACK.rfa
+                                └── E-Series TAP FEEDER 3WGE 2STACK.rfa
+                                └── E-Series TAP FEEDER 3WGE 3STACK.rfa
+                            📁 3WHE
+                                └── E-Series TAP FEEDER 3WHE 1STACK.rfa
+                                └── E-Series TAP FEEDER 3WHE 2STACK.rfa
+                                └── E-Series TAP FEEDER 3WHE 3STACK.rfa
+                            📁 4WGE
+                                └── E-Series TAP FEEDER 4WGE 1STACK.rfa
+                                └── E-Series TAP FEEDER 4WGE 2STACK.rfa
+                                └── E-Series TAP FEEDER 4WGE 3STACK.rfa
+                            📁 4WHE
+                                └── E-Series TAP FEEDER 4WHE 1STACK.rfa
+                                └── E-Series TAP FEEDER 4WHE 2STACK.rfa
+                                └── E-Series TAP FEEDER 4WHE 3STACK.rfa
+                        📁 04 FLANGED END
+                            📁 3WGE
+                                └── E-Series COMB-ELBOW FLANGED END 3WGE 1STACK(FWUP).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 3WGE 1STACK(RWUP).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 3WGE 1STACK(UPFW).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 3WGE 1STACK(UPRW).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 3WGE 2STACK(FWUP).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 3WGE 2STACK(RWUP).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 3WGE 2STACK(UPFW).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 3WGE 2STACK(UPRW).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 3WGE 3STACK(FWUP).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 3WGE 3STACK(RWUP).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 3WGE 3STACK(UPFW).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 3WGE 3STACK(UPRW).rfa
+                                └── E-Series FEEDER FLANGED END 3WGE 1STACK.rfa
+                                └── E-Series FEEDER FLANGED END 3WGE 2STACK.rfa
+                                └── E-Series FEEDER FLANGED END 3WGE 3STACK.rfa
+                                └── E-Series H-ELBOW FLANGED END 3WGE 1STACK.rfa
+                                └── E-Series H-ELBOW FLANGED END 3WGE 2STACK.rfa
+                                └── E-Series H-ELBOW FLANGED END 3WGE 3STACK.rfa
+                                └── E-Series H-OFFSET FLANGED END 3WGE 1STACK.rfa
+                                └── E-Series H-OFFSET FLANGED END 3WGE 2STACK.rfa
+                                └── E-Series H-OFFSET FLANGED END 3WGE 3STACK.rfa
+                                └── E-Series V-ELBOW FLANGED END 3WGE 1STACK.rfa
+                                └── E-Series V-ELBOW FLANGED END 3WGE 2STACK.rfa
+                                └── E-Series V-ELBOW FLANGED END 3WGE 3STACK.rfa
+                                └── E-Series V-OFFSET FLANGED END 3WGE 1STACK.rfa
+                                └── E-Series V-OFFSET FLANGED END 3WGE 2STACK.rfa
+                                └── E-Series V-OFFSET FLANGED END 3WGE 3STACK.rfa
+                            📁 3WHE
+                                └── E-Series COMB-ELBOW FLANGED END 3WHE 1STACK(FWUP).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 3WHE 1STACK(RWUP).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 3WHE 1STACK(UPFW).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 3WHE 1STACK(UPRW).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 3WHE 2STACK(FWUP).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 3WHE 2STACK(RWUP).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 3WHE 2STACK(UPFW).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 3WHE 2STACK(UPRW).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 3WHE 3STACK(FWUP).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 3WHE 3STACK(RWUP).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 3WHE 3STACK(UPFW).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 3WHE 3STACK(UPRW).rfa
+                                └── E-Series FEEDER FLANGED END 3WHE 1STACK.rfa
+                                └── E-Series FEEDER FLANGED END 3WHE 2STACK.rfa
+                                └── E-Series FEEDER FLANGED END 3WHE 3STACK.rfa
+                                └── E-Series H-ELBOW FLANGED END 3WHE 1STACK.rfa
+                                └── E-Series H-ELBOW FLANGED END 3WHE 2STACK.rfa
+                                └── E-Series H-ELBOW FLANGED END 3WHE 3STACK.rfa
+                                └── E-Series H-OFFSET FLANGED END 3WHE 1STACK.rfa
+                                └── E-Series H-OFFSET FLANGED END 3WHE 2STACK.rfa
+                                └── E-Series H-OFFSET FLANGED END 3WHE 3STACK.rfa
+                                └── E-Series V-ELBOW FLANGED END 3WHE 1STACK.rfa
+                                └── E-Series V-ELBOW FLANGED END 3WHE 2STACK.rfa
+                                └── E-Series V-ELBOW FLANGED END 3WHE 3STACK.rfa
+                                └── E-Series V-OFFSET FLANGED END 3WHE 1STACK.rfa
+                                └── E-Series V-OFFSET FLANGED END 3WHE 2STACK.rfa
+                                └── E-Series V-OFFSET FLANGED END 3WHE 3STACK.rfa
+                            📁 4WGE
+                                └── E-Series COMB-ELBOW FLANGED END 4WGE 1STACK(FWUP).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 4WGE 1STACK(RWUP).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 4WGE 1STACK(UPFW).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 4WGE 1STACK(UPRW).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 4WGE 2STACK(FWUP).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 4WGE 2STACK(RWUP).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 4WGE 2STACK(UPFW).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 4WGE 2STACK(UPRW).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 4WGE 3STACK(RWUP).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 4WGE 3STACK(UPFW).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 4WGE 3STACK(UPRW).rfa
+                                └── E-Series FEEDER FLANGED END 4WGE 1STACK.rfa
+                                └── E-Series FEEDER FLANGED END 4WGE 2STACK.rfa
+                                └── E-Series FEEDER FLANGED END 4WGE 3STACK.rfa
+                                └── E-Series H-ELBOW FLANGED END 4WGE 1STACK.rfa
+                                └── E-Series H-ELBOW FLANGED END 4WGE 2STACK.rfa
+                                └── E-Series H-ELBOW FLANGED END 4WGE 3STACK.rfa
+                                └── E-Series H-OFFSET FLANGED END 4WGE 1STACK.rfa
+                                └── E-Series H-OFFSET FLANGED END 4WGE 2STACK.rfa
+                                └── E-Series H-OFFSET FLANGED END 4WGE 3STACK.rfa
+                                └── E-Series V-ELBOW FLANGED END 4WGE 1STACK.rfa
+                                └── E-Series V-ELBOW FLANGED END 4WGE 2STACK.rfa
+                                └── E-Series V-ELBOW FLANGED END 4WGE 3STACK.rfa
+                                └── E-Series V-OFFSET FLANGED END 4WGE 1STACK.rfa
+                                └── E-Series V-OFFSET FLANGED END 4WGE 2STACK.rfa
+                                └── E-Series V-OFFSET FLANGED END 4WGE 3STACK.rfa
+                            📁 4WHE
+                                └── E-Series COMB-ELBOW FLANGED END 4WHE 1STACK(FWUP).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 4WHE 1STACK(RWUP).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 4WHE 1STACK(UPFW).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 4WHE 1STACK(UPRW).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 4WHE 2STACK(FWUP).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 4WHE 2STACK(RWUP).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 4WHE 2STACK(UPFW).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 4WHE 2STACK(UPRW).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 4WHE 3STACK(FWUP).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 4WHE 3STACK(RWUP).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 4WHE 3STACK(UPFW).rfa
+                                └── E-Series COMB-ELBOW FLANGED END 4WHE 3STACK(UPRW).rfa
+                                └── E-Series FEEDER FLANGED END 4WHE 1STACK.rfa
+                                └── E-Series FEEDER FLANGED END 4WHE 2STACK.rfa
+                                └── E-Series FEEDER FLANGED END 4WHE 3STACK.rfa
+                                └── E-Series H-ELBOW FLANGED END 4WHE 1STACK.rfa
+                                └── E-Series H-ELBOW FLANGED END 4WHE 2STACK.rfa
+                                └── E-Series H-ELBOW FLANGED END 4WHE 3STACK.rfa
+                                └── E-Series H-OFFSET FLANGED END 4WHE 1STACK.rfa
+                                └── E-Series H-OFFSET FLANGED END 4WHE 2STACK.rfa
+                                └── E-Series H-OFFSET FLANGED END 4WHE 3STACK.rfa
+                                └── E-Series V-ELBOW FLANGED END 4WHE 1STACK.rfa
+                                └── E-Series V-ELBOW FLANGED END 4WHE 2STACK.rfa
+                                └── E-Series V-ELBOW FLANGED END 4WHE 3STACK.rfa
+                                └── E-Series V-OFFSET FLANGED END 4WHE 1STACK.rfa
+                                └── E-Series V-OFFSET FLANGED END 4WHE 2STACK.rfa
+                                └── E-Series V-OFFSET FLANGED END 4WHE 3STACK.rfa
+                        📁 05 FLANGED END BOX
+                            └── E-Series COMB-ELBOW FLANGED END BOX 3WGE 1STACK(FWUP).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 3WGE 1STACK(RWUP).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 3WGE 1STACK(UPFW).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 3WGE 1STACK(UPRW).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 3WGE 2STACK(FWUP).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 3WGE 2STACK(RWUP).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 3WGE 2STACK(UPFW).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 3WGE 2STACK(UPRW).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 3WGE 3STACK(FWUP).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 3WGE 3STACK(RWUP).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 3WGE 3STACK(UPFW).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 3WGE 3STACK(UPRW).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 3WHE 1STACK(FWUP).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 3WHE 1STACK(RWUP).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 3WHE 1STACK(UPFW).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 3WHE 1STACK(UPRW).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 3WHE 2STACK(FWUP).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 3WHE 2STACK(RWUP).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 3WHE 2STACK(UPFW).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 3WHE 2STACK(UPRW).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 3WHE 3STACK(FWUP).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 3WHE 3STACK(RWUP).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 3WHE 3STACK(UPFW).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 3WHE 3STACK(UPRW).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 4WGE 1STACK(FWUP).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 4WGE 1STACK(RWUP).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 4WGE 1STACK(UPFW).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 4WGE 1STACK(UPRW).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 4WGE 2STACK(FWUP).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 4WGE 2STACK(RWUP).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 4WGE 2STACK(UPFW).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 4WGE 2STACK(UPRW).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 4WGE 3STACK(FWUP).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 4WGE 3STACK(RWUP).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 4WGE 3STACK(UPFW).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 4WGE 3STACK(UPRW).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 4WHE 1STACK(FWUP).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 4WHE 1STACK(RWUP).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 4WHE 1STACK(UPFW).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 4WHE 1STACK(UPRW).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 4WHE 2STACK(FWUP).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 4WHE 2STACK(RWUP).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 4WHE 2STACK(UPFW).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 4WHE 2STACK(UPRW).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 4WHE 3STACK(FWUP).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 4WHE 3STACK(RWUP).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 4WHE 3STACK(UPFW).rfa
+                            └── E-Series COMB-ELBOW FLANGED END BOX 4WHE 3STACK(UPRW).rfa
+                            └── E-Series FEEDER FLANGED END BOX 3WGE 1STACK.rfa
+                            └── E-Series FEEDER FLANGED END BOX 3WGE 2STACK.rfa
+                            └── E-Series FEEDER FLANGED END BOX 3WGE 3STACK.rfa
+                            └── E-Series FEEDER FLANGED END BOX 3WHE 1STACK.rfa
+                            └── E-Series FEEDER FLANGED END BOX 3WHE 2STACK.rfa
+                            └── E-Series FEEDER FLANGED END BOX 3WHE 3STACK.rfa
+                            └── E-Series FEEDER FLANGED END BOX 4WGE 1STACK.rfa
+                            └── E-Series FEEDER FLANGED END BOX 4WGE 2STACK.rfa
+                            └── E-Series FEEDER FLANGED END BOX 4WGE 3STACK.rfa
+                            └── E-Series FEEDER FLANGED END BOX 4WHE 1STACK.rfa
+                            └── E-Series FEEDER FLANGED END BOX 4WHE 2STACK.rfa
+                            └── E-Series FEEDER FLANGED END BOX 4WHE 3STACK.rfa
+                            └── E-Series H-ELBOW FLANGED END BOX 3WGE 1STACK.rfa
+                            └── E-Series H-ELBOW FLANGED END BOX 3WGE 2STACK.rfa
+                            └── E-Series H-ELBOW FLANGED END BOX 3WGE 3STACK.rfa
+                            └── E-Series H-ELBOW FLANGED END BOX 3WHE 1STACK.rfa
+                            └── E-Series H-ELBOW FLANGED END BOX 3WHE 2STACK.rfa
+                            └── E-Series H-ELBOW FLANGED END BOX 3WHE 3STACK.rfa
+                            └── E-Series H-ELBOW FLANGED END BOX 4WGE 1STACK.rfa
+                            └── E-Series H-ELBOW FLANGED END BOX 4WGE 2STACK.rfa
+                            └── E-Series H-ELBOW FLANGED END BOX 4WGE 3STACK.rfa
+                            └── E-Series H-ELBOW FLANGED END BOX 4WHE 1STACK.rfa
+                            └── E-Series H-ELBOW FLANGED END BOX 4WHE 2STACK.rfa
+                            └── E-Series H-ELBOW FLANGED END BOX 4WHE 3STACK.rfa
+                            └── E-Series H-OFFSET FLANGED END BOX 3WGE 1STACK.rfa
+                            └── E-Series H-OFFSET FLANGED END BOX 3WGE 2STACK.rfa
+                            └── E-Series H-OFFSET FLANGED END BOX 3WGE 3STACK.rfa
+                            └── E-Series H-OFFSET FLANGED END BOX 3WHE 1STACK.rfa
+                            └── E-Series H-OFFSET FLANGED END BOX 3WHE 2STACK.rfa
+                            └── E-Series H-OFFSET FLANGED END BOX 3WHE 3STACK.rfa
+                            └── E-Series H-OFFSET FLANGED END BOX 4WGE 1STACK.rfa
+                            └── E-Series H-OFFSET FLANGED END BOX 4WGE 2STACK.rfa
+                            └── E-Series H-OFFSET FLANGED END BOX 4WGE 3STACK.rfa
+                            └── E-Series H-OFFSET FLANGED END BOX 4WHE 1STACK.rfa
+                            └── E-Series H-OFFSET FLANGED END BOX 4WHE 2STACK.rfa
+                            └── E-Series H-OFFSET FLANGED END BOX 4WHE 3STACK.rfa
+                            └── E-Series V-ELBOW FLANGED END BOX 3WGE 1STACK.rfa
+                            └── E-Series V-ELBOW FLANGED END BOX 3WGE 2STACK.rfa
+                            └── E-Series V-ELBOW FLANGED END BOX 3WGE 3STACK.rfa
+                            └── E-Series V-ELBOW FLANGED END BOX 3WHE 1STACK.rfa
+                            └── E-Series V-ELBOW FLANGED END BOX 3WHE 2STACK.rfa
+                            └── E-Series V-ELBOW FLANGED END BOX 3WHE 3STACK.rfa
+                            └── E-Series V-ELBOW FLANGED END BOX 4WGE 1STACK.rfa
+                            └── E-Series V-ELBOW FLANGED END BOX 4WGE 2STACK.rfa
+                            └── E-Series V-ELBOW FLANGED END BOX 4WGE 3STACK.rfa
+                            └── E-Series V-ELBOW FLANGED END BOX 4WHE 1STACK.rfa
+                            └── E-Series V-ELBOW FLANGED END BOX 4WHE 2STACK.rfa
+                            └── E-Series V-ELBOW FLANGED END BOX 4WHE 3STACK.rfa
+                            └── E-Series V-OFFSET FLANGED END BOX 3WGE 1STACK.rfa
+                            └── E-Series V-OFFSET FLANGED END BOX 3WGE 2STACK.rfa
+                            └── E-Series V-OFFSET FLANGED END BOX 3WGE 3STACK.rfa
+                            └── E-Series V-OFFSET FLANGED END BOX 3WHE 1STACK.rfa
+                            └── E-Series V-OFFSET FLANGED END BOX 3WHE 2STACK.rfa
+                            └── E-Series V-OFFSET FLANGED END BOX 3WHE 3STACK.rfa
+                            └── E-Series V-OFFSET FLANGED END BOX 4WGE 1STACK.rfa
+                            └── E-Series V-OFFSET FLANGED END BOX 4WGE 2STACK.rfa
+                            └── E-Series V-OFFSET FLANGED END BOX 4WGE 3STACK.rfa
+                            └── E-Series V-OFFSET FLANGED END BOX 4WHE 1STACK.rfa
+                            └── E-Series V-OFFSET FLANGED END BOX 4WHE 2STACK.rfa
+                            └── E-Series V-OFFSET FLANGED END BOX 4WHE 3STACK.rfa
+                        📁 06 H.ELBOW
+                            📁 3WGE
+                                └── E-Series H-ELBOW 3WGE 1STACK.rfa
+                                └── E-Series H-ELBOW 3WGE 2STACK.rfa
+                                └── E-Series H-ELBOW 3WGE 3STACK.rfa
+                            📁 3WHE
+                                └── E-Series H-ELBOW 3WHE 1STACK.rfa
+                                └── E-Series H-ELBOW 3WHE 2STACK.rfa
+                                └── E-Series H-ELBOW 3WHE 3STACK.rfa
+                            📁 4WFE
+                                └── E-Series H-ELBOW 4WFE 1STACK.rfa
+                                └── E-Series H-ELBOW 4WFE 2STACK.rfa
+                                └── E-Series H-ELBOW 4WFE 3STACK.rfa
+                            📁 4WFEDN
+                                └── E-Series H-ELBOW 4WFEDN 1STACK.rfa
+                                └── E-Series H-ELBOW 4WFEDN 2STACK.rfa
+                                └── E-Series H-ELBOW 4WFEDN 3STACK.rfa
+                            📁 4WGE
+                                └── E-Series H-ELBOW 4WGE 1STACK.rfa
+                                └── E-Series H-ELBOW 4WGE 2STACK.rfa
+                                └── E-Series H-ELBOW 4WGE 3STACK.rfa
+                            📁 4WHE
+                                └── E-Series H-ELBOW 4WHE 1STACK.rfa
+                                └── E-Series H-ELBOW 4WHE 2STACK.rfa
+                                └── E-Series H-ELBOW 4WHE 3STACK.rfa
+                        📁 07 V.ELBOW
+                            📁 3WGE
+                                └── E-Series V-ELBOW 3WGE 1STACK.rfa
+                                └── E-Series V-ELBOW 3WGE 2STACK.rfa
+                                └── E-Series V-ELBOW 3WGE 3STACK.rfa
+                            📁 3WHE
+                                └── E-Series V-ELBOW 3WHE 1STACK.rfa
+                                └── E-Series V-ELBOW 3WHE 2STACK.rfa
+                                └── E-Series V-ELBOW 3WHE 3STACK.rfa
+                            📁 4WFE
+                                └── E-Series V-ELBOW 4WFE 1STACK.rfa
+                                └── E-Series V-ELBOW 4WFE 2STACK.rfa
+                                └── E-Series V-ELBOW 4WFE 3STACK.rfa
+                            📁 4WFEDN
+                                └── E-Series V-ELBOW 4WFEDN 1STACK.rfa
+                                └── E-Series V-ELBOW 4WFEDN 2STACK.rfa
+                                └── E-Series V-ELBOW 4WFEDN 3STACK.rfa
+                            📁 4WGE
+                                └── E-Series V-ELBOW 4WGE 1STACK.rfa
+                                └── E-Series V-ELBOW 4WGE 2STACK.rfa
+                                └── E-Series V-ELBOW 4WGE 3STACK.rfa
+                            📁 4WHE
+                                └── E-Series V-ELBOW 4WHE 1STACK.rfa
+                                └── E-Series V-ELBOW 4WHE 2STACK.rfa
+                                └── E-Series V-ELBOW 4WHE 3STACK.rfa
+                        📁 08 H.OFFSET
+                            📁 3WGE
+                                └── E-Series H-OFFSET 3WGE 1STACK.rfa
+                                └── E-Series H-OFFSET 3WGE 2STACK.rfa
+                                └── E-Series H-OFFSET 3WGE 3STACK.rfa
+                            📁 3WHE
+                                └── E-Series H-OFFSET 3WHE 1STACK.rfa
+                                └── E-Series H-OFFSET 3WHE 2STACK.rfa
+                                └── E-Series H-OFFSET 3WHE 3STACK.rfa
+                            📁 4WFE
+                                └── E-Series H-OFFSET 4WFE 1STACK.rfa
+                                └── E-Series H-OFFSET 4WFE 2STACK.rfa
+                                └── E-Series H-OFFSET 4WFE 3STACK.rfa
+                            📁 4WFEDN
+                                └── E-Series H-OFFSET 4WFEDN 1STACK.rfa
+                                └── E-Series H-OFFSET 4WFEDN 2STACK.rfa
+                                └── E-Series H-OFFSET 4WFEDN 3STACK.rfa
+                            📁 4WGE
+                                └── E-Series H-OFFSET 4WGE 1STACK.rfa
+                                └── E-Series H-OFFSET 4WGE 2STACK.rfa
+                                └── E-Series H-OFFSET 4WGE 3STACK.rfa
+                            📁 4WHE
+                                └── E-Series H-OFFSET 4WHE 1STACK.rfa
+                                └── E-Series H-OFFSET 4WHE 2STACK.rfa
+                                └── E-Series H-OFFSET 4WHE 3STACK.rfa
+                        📁 09 V.OFFSET
+                            📁 3WGE
+                                └── E-Series V-OFFSET 3WGE 1STACK.rfa
+                                └── E-Series V-OFFSET 3WGE 2STACK.rfa
+                                └── E-Series V-OFFSET 3WGE 3STACK.rfa
+                            📁 3WHE
+                                └── E-Series V-OFFSET 3WHE 1STACK.rfa
+                                └── E-Series V-OFFSET 3WHE 2STACK.rfa
+                                └── E-Series V-OFFSET 3WHE 3STACK.rfa
+                            📁 4WFE
+                                └── E-Series V-OFFSET 4WFE 1STACK.rfa
+                                └── E-Series V-OFFSET 4WFE 2STACK.rfa
+                                └── E-Series V-OFFSET 4WFE 3STACK.rfa
+                            📁 4WFEDN
+                                └── E-Series V-OFFSET 4WFEDN 1STACK.rfa
+                                └── E-Series V-OFFSET 4WFEDN 2STACK.rfa
+                                └── E-Series V-OFFSET 4WFEDN 3STACK.rfa
+                            📁 4WGE
+                                └── E-Series V-OFFSET 4WGE 1STACK.rfa
+                                └── E-Series V-OFFSET 4WGE 2STACK.rfa
+                                └── E-Series V-OFFSET 4WGE 3STACK.rfa
+                            📁 4WHE
+                                └── E-Series V-OFFSET 4WHE 1STACK.rfa
+                                └── E-Series V-OFFSET 4WHE 2STACK.rfa
+                                └── E-Series V-OFFSET 4WHE 3STACK.rfa
+                        📁 10 COMB.ELBOW
+                            📁 3WGE
+                                └── E-Series COMB-ELBOW 3WGE 1STACK(FWUP).rfa
+                                └── E-Series COMB-ELBOW 3WGE 1STACK(RWUP).rfa
+                                └── E-Series COMB-ELBOW 3WGE 1STACK(UPFW).rfa
+                                └── E-Series COMB-ELBOW 3WGE 1STACK(UPRW).rfa
+                                └── E-Series COMB-ELBOW 3WGE 2STACK(FWUP).rfa
+                                └── E-Series COMB-ELBOW 3WGE 2STACK(RWUP).rfa
+                                └── E-Series COMB-ELBOW 3WGE 2STACK(UPFW).rfa
+                                └── E-Series COMB-ELBOW 3WGE 2STACK(UPRW).rfa
+                                └── E-Series COMB-ELBOW 3WGE 3STACK(FWUP).rfa
+                                └── E-Series COMB-ELBOW 3WGE 3STACK(RWUP).rfa
+                                └── E-Series COMB-ELBOW 3WGE 3STACK(UPFW).rfa
+                                └── E-Series COMB-ELBOW 3WGE 3STACK(UPRW).rfa
+                            📁 3WHE
+                                └── E-Series COMB-ELBOW 3WHE 1STACK(FWUP).rfa
+                                └── E-Series COMB-ELBOW 3WHE 1STACK(RWUP).rfa
+                                └── E-Series COMB-ELBOW 3WHE 1STACK(UPFW).rfa
+                                └── E-Series COMB-ELBOW 3WHE 1STACK(UPRW).rfa
+                                └── E-Series COMB-ELBOW 3WHE 2STACK(FWUP).rfa
+                                └── E-Series COMB-ELBOW 3WHE 2STACK(RWUP).rfa
+                                └── E-Series COMB-ELBOW 3WHE 2STACK(UPFW).rfa
+                                └── E-Series COMB-ELBOW 3WHE 2STACK(UPRW).rfa
+                                └── E-Series COMB-ELBOW 3WHE 3STACK(FWUP).rfa
+                                └── E-Series COMB-ELBOW 3WHE 3STACK(RWUP).rfa
+                                └── E-Series COMB-ELBOW 3WHE 3STACK(UPFW).rfa
+                                └── E-Series COMB-ELBOW 3WHE 3STACK(UPRW).rfa
+                            📁 4WFE
+                                └── E-Series COMB-ELBOW 4WFE 1STACK(FWUP).rfa
+                                └── E-Series COMB-ELBOW 4WFE 1STACK(RWUP).rfa
+                                └── E-Series COMB-ELBOW 4WFE 1STACK(UPFW).rfa
+                                └── E-Series COMB-ELBOW 4WFE 1STACK(UPRW).rfa
+                                └── E-Series COMB-ELBOW 4WFE 2STACK(FWUP).rfa
+                                └── E-Series COMB-ELBOW 4WFE 2STACK(RWUP).rfa
+                                └── E-Series COMB-ELBOW 4WFE 2STACK(UPFW).rfa
+                                └── E-Series COMB-ELBOW 4WFE 2STACK(UPRW).rfa
+                                └── E-Series COMB-ELBOW 4WFE 3STACK(FWUP).rfa
+                                └── E-Series COMB-ELBOW 4WFE 3STACK(RWUP).rfa
+                                └── E-Series COMB-ELBOW 4WFE 3STACK(UPFW).rfa
+                                └── E-Series COMB-ELBOW 4WFE 3STACK(UPRW).rfa
+                            📁 4WFEDN
+                                └── E-Series COMB-ELBOW 4WFEDN 1STACK(FWUP).rfa
+                                └── E-Series COMB-ELBOW 4WFEDN 1STACK(RWUP).rfa
+                                └── E-Series COMB-ELBOW 4WFEDN 1STACK(UPFW).rfa
+                                └── E-Series COMB-ELBOW 4WFEDN 1STACK(UPRW).rfa
+                                └── E-Series COMB-ELBOW 4WFEDN 2STACK(FWUP).rfa
+                                └── E-Series COMB-ELBOW 4WFEDN 2STACK(RWUP).rfa
+                                └── E-Series COMB-ELBOW 4WFEDN 2STACK(UPFW).rfa
+                                └── E-Series COMB-ELBOW 4WFEDN 2STACK(UPRW).rfa
+                                └── E-Series COMB-ELBOW 4WFEDN 3STACK(FWUP).rfa
+                                └── E-Series COMB-ELBOW 4WFEDN 3STACK(RWUP).rfa
+                                └── E-Series COMB-ELBOW 4WFEDN 3STACK(UPFW).rfa
+                                └── E-Series COMB-ELBOW 4WFEDN 3STACK(UPRW).rfa
+                            📁 4WGE
+                                └── E-Series COMB-ELBOW 4WGE 1STACK(FWUP).rfa
+                                └── E-Series COMB-ELBOW 4WGE 1STACK(RWUP).rfa
+                                └── E-Series COMB-ELBOW 4WGE 1STACK(UPFW).rfa
+                                └── E-Series COMB-ELBOW 4WGE 1STACK(UPRW).rfa
+                                └── E-Series COMB-ELBOW 4WGE 2STACK(FWUP).rfa
+                                └── E-Series COMB-ELBOW 4WGE 2STACK(RWUP).rfa
+                                └── E-Series COMB-ELBOW 4WGE 2STACK(UPFW).rfa
+                                └── E-Series COMB-ELBOW 4WGE 2STACK(UPRW).rfa
+                                └── E-Series COMB-ELBOW 4WGE 3STACK(FWUP).rfa
+                                └── E-Series COMB-ELBOW 4WGE 3STACK(RWUP).rfa
+                                └── E-Series COMB-ELBOW 4WGE 3STACK(UPFW).rfa
+                                └── E-Series COMB-ELBOW 4WGE 3STACK(UPRW).rfa
+                            📁 4WHE
+                                └── E-Series COMB-ELBOW 4WHE 1STACK(FWUP).rfa
+                                └── E-Series COMB-ELBOW 4WHE 1STACK(RWUP).rfa
+                                └── E-Series COMB-ELBOW 4WHE 1STACK(UPFW).rfa
+                                └── E-Series COMB-ELBOW 4WHE 1STACK(UPRW).rfa
+                                └── E-Series COMB-ELBOW 4WHE 2STACK(FWUP).rfa
+                                └── E-Series COMB-ELBOW 4WHE 2STACK(RWUP).rfa
+                                └── E-Series COMB-ELBOW 4WHE 2STACK(UPFW).rfa
+                                └── E-Series COMB-ELBOW 4WHE 2STACK(UPRW).rfa
+                                └── E-Series COMB-ELBOW 4WHE 3STACK(FWUP).rfa
+                                └── E-Series COMB-ELBOW 4WHE 3STACK(RWUP).rfa
+                                └── E-Series COMB-ELBOW 4WHE 3STACK(UPFW).rfa
+                                └── E-Series COMB-ELBOW 4WHE 3STACK(UPRW).rfa
+                        📁 11 H.TEE
+                            └── E-Series H-TEE 3WGE 1STACK.rfa
+                            └── E-Series H-TEE 3WGE 2STACK.rfa
+                            └── E-Series H-TEE 3WGE 3STACK.rfa
+                            └── E-Series H-TEE 3WHE 1STACK.rfa
+                            └── E-Series H-TEE 3WHE 2STACK.rfa
+                            └── E-Series H-TEE 3WHE 3STACK.rfa
+                            └── E-Series H-TEE 4WFE 1STACK.rfa
+                            └── E-Series H-TEE 4WFE 2STACK.rfa
+                            └── E-Series H-TEE 4WFE 3STACK.rfa
+                            └── E-Series H-TEE 4WFEDN 1STACK.rfa
+                            └── E-Series H-TEE 4WFEDN 2STACK.rfa
+                            └── E-Series H-TEE 4WFEDN 3STACK.rfa
+                            └── E-Series H-TEE 4WGE 1STACK.rfa
+                            └── E-Series H-TEE 4WGE 2STACK.rfa
+                            └── E-Series H-TEE 4WGE 3STACK.rfa
+                            └── E-Series H-TEE 4WHE 1STACK.rfa
+                            └── E-Series H-TEE 4WHE 2STACK.rfa
+                            └── E-Series H-TEE 4WHE 3STACK.rfa
+                        📁 12 V.TEE
+                            └── E-Series V-TEE 3WGE 1STACK.rfa
+                            └── E-Series V-TEE 3WGE 2STACK.rfa
+                            └── E-Series V-TEE 3WGE 3STACK.rfa
+                            └── E-Series V-TEE 3WHE 1STACK.rfa
+                            └── E-Series V-TEE 3WHE 2STACK.rfa
+                            └── E-Series V-TEE 3WHE 3STACK.rfa
+                            └── E-Series V-TEE 4WFE 1STACK.rfa
+                            └── E-Series V-TEE 4WFE 2STACK.rfa
+                            └── E-Series V-TEE 4WFE 3STACK.rfa
+                            └── E-Series V-TEE 4WFEDN 1STACK.rfa
+                            └── E-Series V-TEE 4WFEDN 2STACK.rfa
+                            └── E-Series V-TEE 4WFEDN 3STACK.rfa
+                            └── E-Series V-TEE 4WGE 1STACK.rfa
+                            └── E-Series V-TEE 4WGE 2STACK.rfa
+                            └── E-Series V-TEE 4WGE 3STACK.rfa
+                            └── E-Series V-TEE 4WHE 1STACK.rfa
+                            └── E-Series V-TEE 4WHE 2STACK.rfa
+                            └── E-Series V-TEE 4WHE 3STACK.rfa
+                        📁 13 CROSS
+                            └── E-Series CROSS 3WGE 1STACK.rfa
+                            └── E-Series CROSS 3WGE 2STACK.rfa
+                            └── E-Series CROSS 3WGE 3STACK.rfa
+                            └── E-Series CROSS 3WHE 1STACK.rfa
+                            └── E-Series CROSS 3WHE 2STACK.rfa
+                            └── E-Series CROSS 3WHE 3STACK.rfa
+                            └── E-Series CROSS 4WFE 1STACK.rfa
+                            └── E-Series CROSS 4WFE 2STACK.rfa
+                            └── E-Series CROSS 4WFE 3STACK.rfa
+                            └── E-Series CROSS 4WFEDN 1STACK.rfa
+                            └── E-Series CROSS 4WFEDN 2STACK.rfa
+                            └── E-Series CROSS 4WFEDN 3STACK.rfa
+                            └── E-Series CROSS 4WGE 1STACK.rfa
+                            └── E-Series CROSS 4WGE 2STACK.rfa
+                            └── E-Series CROSS 4WGE 3STACK.rfa
+                            └── E-Series CROSS 4WHE 1STACK.rfa
+                            └── E-Series CROSS 4WHE 2STACK.rfa
+                            └── E-Series CROSS 4WHE 3STACK.rfa
+                        📁 14 H.ANGLE
+                            └── E-Series H-ELBOW ANGLE 3WGE 1STACK.rfa
+                            └── E-Series H-ELBOW ANGLE 3WGE 2STACK.rfa
+                            └── E-Series H-ELBOW ANGLE 3WGE 3STACK.rfa
+                            └── E-Series H-ELBOW ANGLE 3WHE 1STACK.rfa
+                            └── E-Series H-ELBOW ANGLE 3WHE 2STACK.rfa
+                            └── E-Series H-ELBOW ANGLE 3WHE 3STACK.rfa
+                            └── E-Series H-ELBOW ANGLE 4WFE 1STACK.rfa
+                            └── E-Series H-ELBOW ANGLE 4WFE 2STACK.rfa
+                            └── E-Series H-ELBOW ANGLE 4WFE 3STACK.rfa
+                            └── E-Series H-ELBOW ANGLE 4WFEDN 1STACK.rfa
+                            └── E-Series H-ELBOW ANGLE 4WFEDN 2STACK.rfa
+                            └── E-Series H-ELBOW ANGLE 4WFEDN 3STACK.rfa
+                            └── E-Series H-ELBOW ANGLE 4WGE 1STACK.rfa
+                            └── E-Series H-ELBOW ANGLE 4WGE 2STACK.rfa
+                            └── E-Series H-ELBOW ANGLE 4WGE 3STACK.rfa
+                            └── E-Series H-ELBOW ANGLE 4WHE 1STACK.rfa
+                            └── E-Series H-ELBOW ANGLE 4WHE 2STACK.rfa
+                            └── E-Series H-ELBOW ANGLE 4WHE 3STACK.rfa
+                        📁 15 V.ANGLE
+                            └── E-Series V-ELBOW ANGLE 3WGE 1STACK.rfa
+                            └── E-Series V-ELBOW ANGLE 3WGE 2STACK.rfa
+                            └── E-Series V-ELBOW ANGLE 3WGE 3STACK.rfa
+                            └── E-Series V-ELBOW ANGLE 3WHE 1STACK.rfa
+                            └── E-Series V-ELBOW ANGLE 3WHE 2STACK.rfa
+                            └── E-Series V-ELBOW ANGLE 3WHE 3STACK.rfa
+                            └── E-Series V-ELBOW ANGLE 4WFE 1STACK.rfa
+                            └── E-Series V-ELBOW ANGLE 4WFE 2STACK.rfa
+                            └── E-Series V-ELBOW ANGLE 4WFE 3STACK.rfa
+                            └── E-Series V-ELBOW ANGLE 4WFEDN 1STACK.rfa
+                            └── E-Series V-ELBOW ANGLE 4WFEDN 2STACK.rfa
+                            └── E-Series V-ELBOW ANGLE 4WFEDN 3STACK.rfa
+                            └── E-Series V-ELBOW ANGLE 4WGE 1STACK.rfa
+                            └── E-Series V-ELBOW ANGLE 4WGE 2STACK.rfa
+                            └── E-Series V-ELBOW ANGLE 4WGE 3STACK.rfa
+                            └── E-Series V-ELBOW ANGLE 4WHE 1STACK.rfa
+                            └── E-Series V-ELBOW ANGLE 4WHE 2STACK.rfa
+                            └── E-Series V-ELBOW ANGLE 4WHE 3STACK.rfa
+                        📁 16 EXPANSION
+                            └── E-Series EXPANSION 3WGE 1STACK.rfa
+                            └── E-Series EXPANSION 3WGE 2STACK.rfa
+                            └── E-Series EXPANSION 3WGE 3STACK.rfa
+                            └── E-Series EXPANSION 3WHE 1STACK.rfa
+                            └── E-Series EXPANSION 3WHE 2STACK.rfa
+                            └── E-Series EXPANSION 3WHE 3STACK.rfa
+                            └── E-Series EXPANSION 4WFE 1STACK.rfa
+                            └── E-Series EXPANSION 4WFE 2STACK.rfa
+                            └── E-Series EXPANSION 4WFE 3STACK.rfa
+                            └── E-Series EXPANSION 4WFEDN 1STACK.rfa
+                            └── E-Series EXPANSION 4WFEDN 2STACK.rfa
+                            └── E-Series EXPANSION 4WFEDN 3STACK.rfa
+                            └── E-Series EXPANSION 4WGE 1STACK.rfa
+                            └── E-Series EXPANSION 4WGE 2STACK.rfa
+                            └── E-Series EXPANSION 4WGE 3STACK.rfa
+                            └── E-Series EXPANSION 4WHE 1STACK.rfa
+                            └── E-Series EXPANSION 4WHE 2STACK.rfa
+                            └── E-Series EXPANSION 4WHE 3STACK.rfa
+                        📁 17 REDUCER
+                            └── E-Series REDUCER 1 STACK to 1 STACK (1).rfa
+                            └── E-Series REDUCER 1 STACK to 1 STACK (2).rfa
+                            └── E-Series REDUCER 1 STACK to 1 STACK (3).rfa
+                            └── E-Series REDUCER 2 STACK to 1 STACK (1).rfa
+                            └── E-Series REDUCER 2 STACK to 1 STACK (2).rfa
+                            └── E-Series REDUCER 2 STACK to 1 STACK (3).rfa
+                            └── E-Series REDUCER 2 STACK to 2 STACK (1).rfa
+                            └── E-Series REDUCER 2 STACK to 2 STACK (2).rfa
+                            └── E-Series REDUCER 2 STACK to 2 STACK (3).rfa
+                            └── E-Series REDUCER 3 STACK to 2 STACK (1).rfa
+                            └── E-Series REDUCER 3 STACK to 2 STACK (2).rfa
+                            └── E-Series REDUCER 3 STACK to 2 STACK (3).rfa
+                            └── E-Series REDUCER BOX 1 STACK to 1 STACK (1).rfa
+                            └── E-Series REDUCER BOX 1 STACK to 1 STACK (2).rfa
+                            └── E-Series REDUCER BOX 1 STACK to 1 STACK (3).rfa
+                            └── E-Series REDUCER BOX 2 STACK to 1 STACK (1).rfa
+                            └── E-Series REDUCER BOX 2 STACK to 1 STACK (2).rfa
+                            └── E-Series REDUCER BOX 2 STACK to 1 STACK (3).rfa
+                            └── E-Series REDUCER BOX 2 STACK to 2 STACK (1).rfa
+                            └── E-Series REDUCER BOX 2 STACK to 2 STACK (2).rfa
+                            └── E-Series REDUCER BOX 2 STACK to 2 STACK (3).rfa
+                            └── E-Series REDUCER BOX 3 STACK to 2 STACK (1).rfa
+                            └── E-Series REDUCER BOX 3 STACK to 2 STACK (2).rfa
+                            └── E-Series REDUCER BOX 3 STACK to 2 STACK (3).rfa
+                        📁 18 P.T.FEEDER
+                            └── E-Series P-T-FEEDER 3WGE 1STACK.rfa
+                            └── E-Series P-T-FEEDER 3WGE 2STACK.rfa
+                            └── E-Series P-T-FEEDER 3WGE 3STACK.rfa
+                            └── E-Series P-T-FEEDER 3WHE 1STACK.rfa
+                            └── E-Series P-T-FEEDER 3WHE 2STACK.rfa
+                            └── E-Series P-T-FEEDER 3WHE 3STACK.rfa
+                            └── E-Series P-T-FEEDER 4WFE 1STACK.rfa
+                            └── E-Series P-T-FEEDER 4WFE 2STACK.rfa
+                            └── E-Series P-T-FEEDER 4WFE 3STACK.rfa
+                            └── E-Series P-T-FEEDER 4WFEDN 1STACK.rfa
+                            └── E-Series P-T-FEEDER 4WFEDN 2STACK.rfa
+                            └── E-Series P-T-FEEDER 4WFEDN 3STACK.rfa
+                            └── E-Series P-T-FEEDER 4WGE 1STACK.rfa
+                            └── E-Series P-T-FEEDER 4WGE 2STACK.rfa
+                            └── E-Series P-T-FEEDER 4WGE 3STACK.rfa
+                            └── E-Series P-T-FEEDER 4WHE 1STACK.rfa
+                            └── E-Series P-T-FEEDER 4WHE 2STACK.rfa
+                            └── E-Series P-T-FEEDER 4WHE 3STACK.rfa
+                        📁 19 TR.CONNECTION FEEDER
+                            └── E-Series TR-CONNECTION FEEDER 3WGE 1STACK.rfa
+                            └── E-Series TR-CONNECTION FEEDER 3WGE 2STACK.rfa
+                            └── E-Series TR-CONNECTION FEEDER 3WGE 3STACK.rfa
+                            └── E-Series TR-CONNECTION FEEDER 3WHE 1STACK.rfa
+                            └── E-Series TR-CONNECTION FEEDER 3WHE 2STACK.rfa
+                            └── E-Series TR-CONNECTION FEEDER 3WHE 3STACK.rfa
+                            └── E-Series TR-CONNECTION FEEDER 4WFE 1STACK.rfa
+                            └── E-Series TR-CONNECTION FEEDER 4WFE 2STACK.rfa
+                            └── E-Series TR-CONNECTION FEEDER 4WFE 3STACK.rfa
+                            └── E-Series TR-CONNECTION FEEDER 4WFEDN 1STACK.rfa
+                            └── E-Series TR-CONNECTION FEEDER 4WFEDN 2STACK.rfa
+                            └── E-Series TR-CONNECTION FEEDER 4WFEDN 3STACK.rfa
+                            └── E-Series TR-CONNECTION FEEDER 4WGE 1STACK.rfa
+                            └── E-Series TR-CONNECTION FEEDER 4WGE 2STACK.rfa
+                            └── E-Series TR-CONNECTION FEEDER 4WGE 3STACK.rfa
+                            └── E-Series TR-CONNECTION FEEDER 4WHE 1STACK.rfa
+                            └── E-Series TR-CONNECTION FEEDER 4WHE 2STACK.rfa
+                            └── E-Series TR-CONNECTION FEEDER 4WHE 3STACK.rfa
+                        📁 20 END CLOSURE
+                            └── E-Series END CLOSURE 3WGE.rfa
+                            └── E-Series END CLOSURE 3WHE.rfa
+                            └── E-Series END CLOSURE 4WFE.rfa
+                            └── E-Series END CLOSURE 4WGE.rfa
+                            └── E-Series END CLOSURE 4WHE.rfa
+                        📁 21 JOINT COVER
+                            └── E-Series JOINT 3WGE 1STACK.rfa
+                            └── E-Series JOINT 3WGE 2STACK.rfa
+                            └── E-Series JOINT 3WGE 3STACK.rfa
+                            └── E-Series JOINT 3WHE 1STACK.rfa
+                            └── E-Series JOINT 3WHE 2STACK.rfa
+                            └── E-Series JOINT 3WHE 3STACK.rfa
+                            └── E-Series JOINT 4WFE 1STACK.rfa
+                            └── E-Series JOINT 4WFE 2STACK.rfa
+                            └── E-Series JOINT 4WFE 3STACK.rfa
+                            └── E-Series JOINT 4WGE 1STACK.rfa
+                            └── E-Series JOINT 4WGE 2STACK.rfa
+                            └── E-Series JOINT 4WGE 3STACK.rfa
+                            └── E-Series JOINT 4WHE 1STACK.rfa
+                            └── E-Series JOINT 4WHE 2STACK.rfa
+                            └── E-Series JOINT 4WHE 3STACK.rfa
+                        📁 PH-BOXES
+                            └── BOLT FASTENING PH BOX.rfa
+                            └── CAM LOCK PH BOX.rfa
+                            └── EXTERNAL HANDLE PH BOX.rfa
+                            └── EXTERNAL LEVER INTERLOCK PH BOX.rfa
+                            └── PUSH BUTTON PH BOX.rfa
+                📁 PH-BOXES
+                    └── BOLT FASTENING PH BOX.rfa
+                    └── CAM LOCK PH BOX.rfa
+                    └── EXTERNAL HANDLE PH BOX.rfa
+                    └── EXTERNAL LEVER INTERLOCK PH BOX.rfa
+                    └── PUSH BUTTON PH BOX.rfa
+            📁 13. BUS PLUG
+                📁 MCCB & Fusible Disconnect (Not Ready for Commercial)
+                    📁 3W 100AF~1200AF BUS PLUG(MCCB)
+                        └── 3W 100AF BUS PLUG(MCCB).pdf
+                        └── 3W 1200AF BUS PLUG(MCCB).pdf
+                        └── 3W 150AF BUS PLUG(MCCB).pdf
+                        └── 3W 250AF BUS PLUG(MCCB).pdf
+                        └── 3W 400AF BUS PLUG(MCCB).pdf
+                        └── 3W 600AF BUS PLUG(MCCB).pdf
+                        └── 3W 800AF BUS PLUG(MCCB).pdf
+                    📁 Bus plug_FUSIBLE BOX (3W)
+                        └── FUSIBLE BOX (CLASS J TYPE) 3W 30~600AF.dwg
+                        └── FUSIBLE BOX(CLASS R TYPE) 3W 30~600AF.dwg
+                        └── L FUSE 1200AF TAP BOX -R1.dwg
+                        └── L FUSE 800A TAP BOX (24.03.15).dwg
+                    📁 MCCB & Fusible Box ( Not Ready for Commercial )
+                        📁 01. MCCB
+                        📁 02. FUSE
+                📁 SHARABLE DRAWINGS 3W
+                    📁 1. Fusible Disconnect Class R
+                        📁 1. Horizontal
+                            └── Fusible Box R Type 3W 100AF.pdf
+                            └── Fusible Box R Type 3W 200AF.pdf
+                            └── Fusible Box R Type 3W 30AF.pdf
+                            └── Fusible Box R Type 3W 400AF.pdf
+                            └── Fusible Box R Type 3W 600AF.pdf
+                            └── Fusible Box R Type 3W 60AF.pdf
+                            └── Fusible Box R Type 4W 100AF.pdf
+                            └── Fusible Box R Type 4W 200AF.pdf
+                            └── Fusible Box R Type 4W 400AF.pdf
+                            └── Fusible Disconnect Class R 3W 30~600AF.pdf
+                        📁 2. Riser
+                    📁 2. Fusible Disconnect Class J
+                        📁 1. Horizontal
+                            └── Fusible Box J Type 3W 100AF.pdf
+                            └── Fusible Box J Type 3W 200AF.pdf
+                            └── Fusible Box J Type 3W 30AF.pdf
+                            └── Fusible Box J Type 3W 400AF.pdf
+                            └── Fusible Box J Type 3W 600AF.pdf
+                            └── Fusible Box J Type 3W 60AF.pdf
+                            └── Fusible Disconnect Type J 3W 30~600AF.pdf
+                        📁 2. Riser
+                            └── Fusible Box J Type 3W 100AF ( Riser ).pdf
+                            └── Fusible Box J Type 3W 200AF ( RIser ).pdf
+                            └── Fusible Box J Type 3W 400AF ( Riser ).pdf
+                            └── Fusible Box J Type 4W 100AF ( Riser ).pdf
+                            └── Fusible Box J Type 4W 200AF ( Riser ).pdf
+                            └── Fusible Box J Type 4W 400AF ( Riser ).pdf
+                    📁 3. Fusible Box L Type
+                        📁 1. Horizontal
+                            └── Fusible Box L Type 3W 1200AF.pdf
+                            └── Fusible Box L Type 3W 800AF.pdf
+                            └── Fusible Box L Type 4W 800AF.pdf
+                        📁 2. Riser
+                    📁 4. Plug Box MCCB
+                        └── Plug Box MCCB 3W 100AF.pdf
+                        └── Plug Box MCCB 3W 1200AF.pdf
+                        └── Plug Box MCCB 3W 150AF.pdf
+                        └── Plug Box MCCB 3W 250AF.pdf
+                        └── Plug Box MCCB 3W 400AF.pdf
+                        └── Plug Box MCCB 3W 600AF.pdf
+                        └── Plug Box MCCB 3W 800AF.pdf
+                    └── Fusible Box R Type 3W 30~600AF.pdf
+                    └── Plug in Box MCCB 3W 100~1200AF.pdf
+📁 05. Project Reference
+    └── LS Cable & System USA Inc. - Reference List in North America_250317.xlsx
+📁 06. Certificate
+    └── 01. UL_E322230-20171208-CertificateofCompliance_Ex_way_UL.pdf
+    └── 02. UL_E322230-20091126-CertificateofCompliance (1)_Plug_In_Circuit_Breaker.pdf
+    └── 03. UL_Project Progress Letter_4790763302 Fuse Box 800A_1200A Class L.pdf
+    └── 04. ISO45001_OHS18_20004748 OHS18_EN(Rev.1).pdf
+    └── 05. ISO9001_QM15_20004748 QM15_EN (rev.1).pdf
+    └── 06-1. U-series_ROHS CERT CPSE01288422.pdf
+    └── 06. Ex-Way_ROHS CERT.pdf
+    └── 07. E-SERIES SEISMIC CERTIFICATION.pdf
+    └── 08. UL_MCCB Box_E322230-Vol1-Sec2-20170328.pdf
+    └── 09. R Type Fusible Box_E322230-Vol1-Sec10-20231116.pdf
+    └── 10. E322230-Vol1-Sec5-20171211_AL.PDF
+    └── 11. E322230-Vol1-Sec6-20171211_CU.PDF
+    └── 12. J,L Type Fusible Box_E322230-Vol1-Sec9-20240108.pdf
+    📁 NSPB MV
+        └── 01. Selective Certi_NSPB MV 7.2kV Cu 2000A_GT2022-17331.pdf
+        └── 02. Selective Certi_NSPB MV 17.5kV Cu 4000A_GT2022-17332.pdf
+        └── 03. Selective Certi_NSPB MV 17.5kV Cu 5000A_GT2022-17333.pdf
+        └── 04. NSPB-MV KERI.pdf
+        └── 05. NSPB-MV 4.76kV 3P3W CU 2000A KERI 내압온도단락.pdf
+        └── 06. NSPB SEISMIC CERTIFICATION.pdf
+        └── [2024.07.10] USA-LSE-HI-LIGHT NSPB LS 성적서  -  호환성 모드.pdf
+📁 07. Photo
+    📁 01. Installation
+        📁 01. ULTIUM CELLS_1ST
+            └── 20211019_140343.jpg
+            └── 20211019_140419.jpg
+            └── 20211019_140431.jpg
+            └── 20211019_140547.jpg
+            └── 20211019_140555.jpg
+            └── 20211019_140849.jpg
+            └── 20211019_141108.jpg
+            └── 20211019_141112.jpg
+            └── 20211019_141331.jpg
+            └── 20211019_141352.jpg
+            └── 20211019_141550.jpg
+            └── 20211019_141555.jpg
+            └── 20211019_141939.jpg
+            └── 20211019_141953.jpg
+            └── 20211019_142029.jpg
+            └── 20211019_142051.jpg
+            └── 20211019_142154.jpg
+            └── 20211019_143031.jpg
+            └── 20211019_143949.jpg
+            └── 20211019_143958.jpg
+            └── 20211019_144149.jpg
+            └── 20211019_144807.jpg
+            └── 20211019_144943.jpg
+            └── 20211019_145712.jpg
+            └── 20211019_145716.jpg
+            └── 20211019_150151.jpg
+            └── 20211019_150224.jpg
+            └── 20211019_150247.jpg
+            └── 20211019_150307.jpg
+            └── 20211021_100809.jpg
+            └── 20211021_101950.jpg
+            └── 20211021_101959.jpg
+            └── 20211021_102042.jpg
+            └── 20211021_102052.jpg
+            └── 20211021_102106.jpg
+            └── 20211021_102132.jpg
+            └── 20211021_102140.jpg
+            └── 20211021_102509.jpg
+            └── 20211021_102614.jpg
+            └── 20211021_103030.jpg
+            └── 20211021_103039.jpg
+            └── 20211021_103041.jpg
+            └── 20211021_103105.jpg
+            └── 20211021_103112.jpg
+            └── 20211021_103119.jpg
+            └── 3P MCCB Breaker.jpg
+            └── 3P_MCCB Breaker.jpg
+            └── Cable tap box and Extension box Vertical.jpg
+            └── Cable Tap box and Extension box.jpg
+            └── Cable tap box on Ceiling 2.jpg
+            └── Ceiling Indoor Installation_Joint Kit.jpg
+            └── Ceiling Installation.jpg
+            └── Ceiling Installation_Plug in Hole.jpg
+            └── Ceiling to floor flange on top.jpg
+            └── Ceiling_Hanger Installation.jpg
+            📁 Completed installed Pic
+                └── 1684920125124-0.jpg
+                └── 1684920125124-1.jpg
+                └── 1684920125124-10.jpg
+                └── 1684920125124-11.jpg
+                └── 1684920125124-12.jpg
+                └── 1684920125124-13.jpg
+                └── 1684920125124-14.jpg
+                └── 1684920125124-15.jpg
+                └── 1684920125124-17.jpg
+                └── 1684920125124-18.jpg
+                └── 1684920125124-19.jpg
+                └── 1684920125124-2.jpg
+                └── 1684920125124-20.jpg
+                └── 1684920125124-21.jpg
+                └── 1684920125124-22.jpg
+                └── 1684920125124-23.jpg
+                └── 1684920125124-24.jpg
+                └── 1684920125124-25.jpg
+                └── 1684920125124-26.jpg
+                └── 1684920125124-27.jpg
+                └── 1684920125124-28.jpg
+                └── 1684920125124-29.jpg
+                └── 1684920125124-3.jpg
+                └── 1684920125124-4.jpg
+                └── 1684920125124-5.jpg
+                └── 1684920125124-6.jpg
+                └── 1684920125124-7.jpg
+                └── 1684920125124-8.jpg
+                └── 1684920125124-9.jpg
+                └── MCCB Box.jpg
+            └── Elbow with Hanger Support.jpg
+            └── Elbow.jpg
+            └── Feed in Box to Cable Tap box.jpg
+            └── Hanger Support on the Ceiling.jpg
+            └── IMG_8310.jpg
+            └── IMG_8311.jpg
+            └── LOTO Horizontal Installation.jpg
+            └── Outside of Jobsite.jpg
+            └── PH hole.jpg
+            └── PIU connected to PH Hole.jpg
+            └── Spring Hanger.jpg
+            └── Standard Plug in Feeder to Feed in Box.jpg
+            └── Standard Plug in Feeder.jpg
+        📁 02. SK Battery 2
+            └── 1637195345901-0.jpg
+            └── 1637195345901-1.jpg
+            └── 1638350990613.jpg
+            └── 20211027_105323.jpg
+            └── 20211027_105905.jpg
+            └── 20211027_105954.jpg
+            └── 20211027_110621.jpg
+            └── 20211027_113108.jpg
+            └── 20211027_113257.jpg
+            └── 20211027_113445.jpg
+            └── 20211027_113451.jpg
+            └── 20211027_113647.jpg
+            └── 20211027_121350.jpg
+            └── 20211027_121638.jpg
+            └── 20211027_121939.jpg
+            └── 20211027_122142.jpg
+            └── Ceiling Elbow Installation.jpg
+            └── Joint Kit window inspection.jpg
+            └── SKBA2 250AF.JPG
+            └── SKBA2 400AF.JPG
+            └── SKBA2 800AF.JPG
+            └── SWGR connection_Ceiling.jpg
+            └── Tee Installation.jpg
+            └── Tee with End Closure.jpg
+            └── Tee.jpg
+        📁 03. Chile_Solar Plant Project Transformers connection - Flanged end 포함
+            └── Flanged end.png
+            └── MicrosoftTeams-image (1).png
+            └── MicrosoftTeams-image (2).png
+            └── MicrosoftTeams-image (3).png
+        📁 04. PMC Winston salem Project NC_USA
+            └── winston salem 1_Outside.png
+            └── winston salem 2_Elbow.png
+            └── winston salem 3_Combination.png
+            └── winston salem 4_End line.png
+        📁 05. Electrical Room Installed Picture
+            └── Picture1.jpg
+            └── Picture2.jpg
+        📁 05. Qcells Redeemer - White, GA
+            └── DSCF2205.JPG
+            └── DSCF2206.JPG
+            └── DSCF2209.JPG
+            └── DSCF2210.JPG
+            └── DSCF2211.JPG
+            └── DSCF2216.JPG
+            └── DSCF2217.JPG
+            └── DSCF2221.JPG
+            └── DSCF2222.JPG
+            └── DSCF2225.JPG
+            └── DSCF2234.JPG
+            └── DSCF2237.JPG
+            └── DSCF2241.JPG
+            └── DSCF2245.JPG
+            └── DSCF2246.JPG
+            └── DSCF2249.JPG
+            └── DSCF2253.JPG
+            └── DSCF2255.JPG
+            └── DSCF2256.JPG
+            └── DSCF2257.JPG
+            └── DSCF2258.JPG
+            └── DSCF2259.JPG
+            └── DSCF2260.JPG
+            └── DSCF2261.JPG
+            └── DSCF2262.JPG
+            └── DSCF2263.JPG
+            └── DSCF2264.JPG
+            └── DSCF2265.JPG
+            └── DSCF2268.JPG
+            └── DSCF2270.JPG
+            └── DSCF2271.JPG
+            └── DSCF2272.JPG
+            └── DSCF2273.JPG
+            └── DSCF2274.JPG
+            └── DSCF2275.JPG
+            └── DSCF2277.JPG
+            └── DSCF2278.JPG
+            └── DSCF2279.JPG
+            └── DSCF2280.JPG
+            └── DSCF2281.MOV
+            └── DSCF2282.JPG
+            └── DSCF2284.JPG
+            └── DSCF2287.JPG
+            └── DSCF2289.JPG
+            └── DSCF2291.JPG
+            └── DSCF2293.JPG
+            └── DSCF2294.JPG
+            └── DSCF2295.JPG
+            └── DSCF2296.JPG
+            └── DSCF2297.JPG
+            └── DSCF2300.JPG
+            └── DSCF2301.JPG
+            └── DSCF2302.JPG
+            └── DSCF2303.JPG
+            └── DSCF2304.JPG
+            └── DSCF2306.JPG
+            └── DSCF2307.JPG
+            └── DSCF2308.JPG
+            └── DSCF2310.MOV
+            └── DSCF2311.JPG
+            └── DSCF2315.JPG
+            └── DSCF2316.JPG
+            └── DSCF2317.JPG
+            └── DSCF2318.JPG
+            └── DSCF2320.JPG
+            └── DSCF2322.JPG
+            └── DSCF2323.JPG
+            └── DSCF2325.JPG
+            └── DSCF2327.JPG
+            └── DSCF2328.JPG
+            └── DSCF2331.JPG
+        📁 06. Ceiling Busduct Installation
+            └── Picture3.jpg
+        📁 07. Feed in Box Picture
+            └── Picture4.jpg
+            └── Picture5.jpg
+    📁 02. Product
+        📁 1. Ex-way
+            └── Elbow.png
+            └── Standard Plug in Feeder.jpg
+            └── Tee Installation.jpg
+            └── Tee.jpg
+        📁 2. Plug-In Box
+            └── 3P MCCB Breaker.jpg
+            └── 3P_MCCB Breaker.jpg
+            └── IMG_8311.jpg
+            └── LOTO Horizontal Installation.jpg
+    📁 03. Busway Photo Gallery (LS Electric)
+        📁 01. Ex-way
+            └── Exway_Bottom view.jpg
+            └── Exway_joint bottom.jpg
+            └── Exway_Joint Kit.jpg
+            └── Exway_Pluginhole.jpg
+            └── Exway_Pluginhole2.jpg
+            └── Exway_Side.jpg
+            └── Exway_structure.jpg
+            └── Exway_Top view.jpg
+        📁 02. Busplug
+            └── Busplug Installed.jpg
+            └── MCCB Breaker.jpg
+            └── MCCB Connection.jpg
+            └── MCCB Inside view.jpg
+            └── MCCB LOTO Sample.jpg
+        📁 03. Installed Systems
+            └── Cable tap box (2).jpg
+            └── Cable tap box.jpg
+            └── Combination.JPG
+            └── Elbow.JPG
+            └── Elbow2.JPG
+            └── End Closer.JPG
+            └── Flange end.JPG
+            └── Flange end_box.JPG
+            └── Floor Flange.JPG
+            └── Hanger Installation.jpg
+            └── Horizontal installation.JPG
+            └── Installed view on top.JPG
+            └── side Installed view on top.JPG
+            └── Spring Hanger (2).jpg
+    📁 LS Busway Photos
+        📁 IDC Busway Seminar
+            └── 데이터센터용(IDC)부스덕트 신제품 세미나 (1).JPG
+            └── 데이터센터용(IDC)부스덕트 신제품 세미나 (10).JPG
+            └── 데이터센터용(IDC)부스덕트 신제품 세미나 (11).JPG
+            └── 데이터센터용(IDC)부스덕트 신제품 세미나 (12).JPG
+            └── 데이터센터용(IDC)부스덕트 신제품 세미나 (13).JPG
+            └── 데이터센터용(IDC)부스덕트 신제품 세미나 (14).JPG
+            └── 데이터센터용(IDC)부스덕트 신제품 세미나 (2).JPG
+            └── 데이터센터용(IDC)부스덕트 신제품 세미나 (3).JPG
+            └── 데이터센터용(IDC)부스덕트 신제품 세미나 (4).JPG
+            └── 데이터센터용(IDC)부스덕트 신제품 세미나 (5).JPG
+            └── 데이터센터용(IDC)부스덕트 신제품 세미나 (6).JPG
+            └── 데이터센터용(IDC)부스덕트 신제품 세미나 (7).JPG
+            └── 데이터센터용(IDC)부스덕트 신제품 세미나 (8).JPG
+            └── 데이터센터용(IDC)부스덕트 신제품 세미나 (9).JPG
+        └── LS Busway Installation  (1).jpg
+        └── LS Busway Installation  (3).jpg
+        └── LS Busway Installation  (4).jpg
+        └── LS Busway Photos in 2015 (1).jpg
+        └── LS Busway Photos in 2015 (2).jpg
+        └── LS Busway Photos in 2015 (3).jpg
+        └── LS Busway Photos in 2015 (4).jpg
+        └── LS Busway Photos in 2015 (5).jpg
+        └── LS Busway Photos in 2015 (6).jpg
+        └── LS Busway Photos in 2015 (7).jpg
+        └── LS Busway Photos in 2015 (8).jpg
+        └── LS Busway Photos in 2015 (9).jpg
+        └── LS Busway Photos in Gumi Factory (1).jpg
+        └── LS Busway Photos in Gumi Factory (2).jpg
+        └── LS Busway Photos in Gumi Factory (3).jpg
+        └── LS Busway Photos in Gumi Factory (4).jpg
+        └── LS Busway Photos in Gumi Factory (5).jpg
+        └── LSCV Busway Factory 2019 (1).jpg
+        └── LSCV Busway Factory 2019 (2).jpg
+        └── LSCV Busway Factory 2019 (3).jpg
+    📁 LSCMX Bird-eye view
+        └── 240726_Image01.jpg
+        └── 240726_Image02.jpg
+        └── 240726_Image03.jpg
+        └── 240726_Image04.jpg
+        └── 240726_Image05.jpg
+        └── 240726_Image06.jpg
+        └── 240726_Image07.jpg
+        └── 240726_Image08.jpg
+        └── 240726_Image09.jpg
+        └── 240726_Image10.jpg
+        └── 240726_Image11.jpg
+        └── 240726_Image12.jpg
+📁 08. Video
+    └── 200A Sample Video.MOV
+    └── 230518_LS전선_Busduct_시공 안전 교육 영상.mp4
+    └── 230523_LS전선_Busduct_CR-way 홍보 영상.mp4
+    └── 230627_LS전선_Busduct_E,I-Series, CR-way 시공 영상.mp4
+    └── Data Center Busway(DATA-WAY).mp4
+    📁 DCW2025
+        └── LSCNS Busduct Solution for Data Center_Ver.2023.mp4
+        └── LSCNS Corporate PR(EN) with each division_Ver.2017.mp4
+        └── LSCNS Corporate PR(EN)_ver2020.mp4
+        └── LSCNS Donghae Factory PR(EN)_2023.mp4
+        └── LSCNS Submarine Cable PR(EN)_ver2020.mp4
+    └── FUSIBLE PLUG-IN UNIT INSTALLATION Video-02-27-23(대용량).mp4
+    └── FUSIBLE PLUG-IN UNIT INSTALLATION Video-02-27-23(저용량).mov
+    └── LSCNS_Busduct_E,I-Series, CR-way Installation video_Korean.mp4
+    └── Presentation of LS Busduct.mp4
+📁 09. Commercial Document
+    📁 1. Brochure
+        └── 01. LS Busway_Brochure_231211.pdf
+    📁 2. Cable VS Busway
+        └── Busduct vs Cable_230928.pdf
+    📁 3. Customer Set-up
+        └── LS Cable & System USA Credit Application.pdf
+    📁 4. Logo
+        📁 1. LS BUSWAY Logo
+            📁 Busway Logo Black
+                └── Busway Logo Black.png
+                └── Busway Logo Black_Trans.png
+                └── Busway Logo_FINAL_Black.ai
+            📁 Busway Logo Color
+                └── Busway Logo_Color.png
+                └── Busway Logo_Color_Trans.png
+                └── Busway Logo_FINAL_Color.ai
+            📁 Busway Logo White
+                └── Busway Logo_FINAL_White.ai
+                └── Busway Logo_White.png
+                └── Busway Logo_White_Trans.png
+        📁 2. LSCSUSA Logo
+            📁 LSCSUSA_Black Logo
+                └── LSCSUSA_Logo_Black.ai
+                └── LSCSUSA_Logo_Black.jpg
+                └── LSCSUSA_Logo_Black.pdf
+                └── LSCSUSA_Logo_Black.png
+                └── LSCSUSA_Logo_Black_tag.jpg
+                └── LSCSUSA_Logo_Black_tag.pdf
+                └── LSCSUSA_Logo_Black_tag.png
+                └── LSCSUSA_Logo_Black_tag_Trans.png
+                └── LSCSUSA_Logo_Black_Trans.png
+            📁 LSCSUSA_Logo_Full Color
+                └── Capture.JPG
+                └── LSCSUSA_Logo_Full Color.jpg
+                └── LSCSUSA_Logo_Full Color.png
+                └── LSCSUSA_Logo_Full Color_tag-PPT.jpg
+                └── LSCSUSA_Logo_Full Color_tag.ai
+                └── LSCSUSA_Logo_Full Color_tag.jpg
+                └── LSCSUSA_Logo_Full Color_tag.pdf
+                └── LSCSUSA_Logo_Full Color_tag.png
+                └── LSCSUSA_Logo_Full Color_Trans.png
+                └── LSCSUSA_Logo_Full Color_Trans_tag.png
+                └── LSCSUSA_Logo_Large_17x6.ai
+                └── Outlooksignature_150x38.png
+                └── wordmark.png
+            📁 LSCSUSA_White Logo
+                └── LSCSUSA_Logo_White.ai
+                └── LSCSUSA_Logo_White.pdf
+                └── LSCSUSA_Logo_White.png
+                └── LSCSUSA_Logo_White_tag.jpg
+                └── LSCSUSA_Logo_White_tag.pdf
+                └── LSCSUSA_Logo_White_tag.png
+                └── LSCSUSA_Logo_White_tag_trans.png
+                └── LSCSUSA_Logo_White_trans.png
+                └── white_promo.png
+        📁 3. WeWinTogether Logo
+            📁 EVP_We Win Together_Logo Set
+            └── EVP_We Win Together_Logo Set.zip
+                📁 __MACOSX
+                    📁 EVP_We Win Together_Logo Set
+                        📁 WWT_Black logo
+                        📁 WWT_Color Logo
+                        📁 WWT_White Logo
+                📁 EVP_We Win Together_Logo Set
+                    📁 WWT_Black logo
+                        └── LS_We Win Together Logo_Black.png
+                        └── LS_We Win Together Logo_Black_trans.png
+                        └── LS_We Win Together Logo_BW.ai
+                    📁 WWT_Color Logo
+                        └── LS_We Win Together Logo.ai
+                        └── LS_We Win Together Logo_Color.png
+                        └── LS_We Win Together Logo_Color_trans.png
+                    📁 WWT_White Logo
+                        └── LS_We Win Together Logo_White.ai
+                        └── LS_We Win Together Logo_White.png
+                        └── LS_We Win Together Logo_White_Trans.png
+    📁 5. Sales Rep Agreement
+        └── Bustduct SRA_Rep Tech Controls_Busduct Rev 3  2-11-2020.pdf
+        📁 CONCEPT
+            └── LS BUS DUCT - 4-12-22.pdf
+            └── SRA_Concept Sales_Busduct_04122022_Draft.docx
+            └── SRA_Concept Sales_Busduct_04122022_FV.docx
+            └── SRA_Concept Sales_Busduct_04122022_FV.pdf
+        └── Customer list_1.xlsx
+        📁 DDK
+            └── SRA_DDK_Busduct.docx
+            └── SRA_DDK_Busduct_Final.pdf
+        📁 GAYNOR
+            └── SRA_Gaynor Sales_Busduct_02012022.pdf
+            └── SRA_Gaynor Sales_Busduct_02012022_Signed.pdf
+            └── SRA_Gaynor Sales_Busduct_03162022_Signed.docx
+            └── SRA_Gaynor Sales_Busduct_03162022_Signed.pdf
+        📁 HK
+            └── SRA_HK Sales_Busduct.docx
+            └── SRA_HK Sales_Busduct.pdf
+        📁 HV
+            └── SRA_HV Sales_Busduct.docx
+            └── SRA_HV Sales_Busduct_Final.pdf
+        📁 LBS POWER
+            └── SRA_LBS Power Technologies.docx
+            └── SRA_LBS Power Technologies.pdf
+        📁 LESTER SALES
+            └── 2020 LS Cable  System USA Inc - Executed.pdf
+            └── SRA_Lester_Busduct.docx
+            └── SRA_Lester_Busduct.pdf
+        └── Rep Evaluation.docx
+        📁 REP TECH CONTROLS
+            └── SRA_Rep Tech Controls_Busduct.docx
+            └── SRA_Rep Tech Controls_Busduct_06082021.docx
+            └── SRA_Rep Tech Controls_Busduct_06082021.pdf
+            └── SRA_Rep Tech Controls_Busduct_Signed.pdf
+        📁 SAYA SYSTEM (CANADA)
+            📁 SALES REP AGREEMENT
+                └── 220726 LSCS USA - SAYA SALES REP CERTIFICATION.docx
+                └── 220726 LSCS USA - SAYA SALES REP CERTIFICATION.pdf
+                └── SRA_SAYA SYSTEM_Busduct_072122-Sign.pdf
+        📁 TEC
+        📁 TKI
+            └── Cancellation.msg
+            └── SRA_TKI_Busduct.docx
+            └── SRA_TKI_Busduct_Final.pdf
+        📁 UNIVERSAL POWER
+            📁 SALES REP AGREEMENT
+                └── 220824 LS Busway SR Agreement USPWR_signed.pdf
+        📁 YANOW
+            └── SRA_Yanow_Busduct.docx
+            └── SRA_Yanow_Busduct.pdf
+        📁 새 폴더
+            └── Sales Rep. contract for TEC.pdf
+            └── TEC SALES SRA_SIGNED.pdf
+📁 10. Projects
+    📁 01. BOSK TN
+        └── FINAL SUBMITTAL CLOSE PROJECT.zip
+    📁 Lessons Learned
+        └── Cipher Black Pearl Data Center PJT_Lesson Learned_(Mar.6.2025).pdf
+        └── desktop.ini
+└── Communicating-in-Business.pdf
+└── desktop.ini
+└── Fundamentals of Sellings.pdf
+└── warren buffett and the interpretation of financial statements.pdf
