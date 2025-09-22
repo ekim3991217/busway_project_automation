@@ -1,16 +1,16 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""
-Script: create_PJT_folder.py
-Usage: python create_PJT_folder.py
-Description:
-  1) Prompts for PJT TITLE and project type (C/I/DC).
-  2) Creates folder: "ddmmyy_PJT TITLE_C/I/DC" (today's date).
-  3) Creates subfolders: "from KOR" and "to KOR" inside it.
-  4) Root path is fixed to:
-     C:\Users\EKim\OneDrive - LS Cable\PM - EugeneKim\2_QUOTATION_PO&RFQ
-"""
+# """
+# Script: create_PJT_folder.py
+# Usage: python create_PJT_folder.py
+# Description:
+#   1) Prompts for PJT TITLE and project type (C/I/DC).
+#   2) Creates folder: "ddmmyy_PJT TITLE_C/I/DC" (today's date).
+#   3) Creates subfolders: "from KOR" and "to KOR" inside it.
+#   4) Root path is fixed to:
+#      C:\Users\EKim\OneDrive - LS Cable\PM - EugeneKim\2_QUOTATION_PO&RFQ
+# """
 
 from pathlib import Path
 from datetime import datetime
@@ -50,7 +50,7 @@ def main():
         pjt_type = prompt_project_type()
 
         # 2) Build folder name
-        today = datetime.now().strftime("%d%m%y")
+        today = datetime.now().strftime("%M%D%y")
         folder_name = f"{today}_{pjt_title}_{pjt_type}"
 
         # 3) Build full path under fixed base directory
