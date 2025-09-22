@@ -50,7 +50,7 @@ def main():
         pjt_type = prompt_project_type()
 
         # 2) Build folder name
-        today = datetime.now().strftime("%M%D%y")
+        today = datetime.now().strftime("%m%d%y")
         folder_name = f"{today}_{pjt_title}_{pjt_type}"
 
         # 3) Build full path under fixed base directory
