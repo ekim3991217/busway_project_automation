@@ -12,8 +12,10 @@ If you omit the argument, you’ll be prompted for a path.
 What it does:
   1) Deletes worksheet "COVER" (case-insensitive).
   2) Converts ALL cells on ALL worksheets to values (preserves formatting).
-  3) Replaces all occurrences of "DDP" with "CIF" across all worksheets
+  3) Replaces all occurrences of "DDP" with "FOB" across all worksheets
      (partial match safe: only the substring "DDP" is replaced).
+     Then, for any cell containing BOTH "FOB" and "USA" (case-insensitive),
+     the entire cell is overwritten with "FOB, BUSAN PORT".
   4) On "PS" sheet:
        - Temporarily moves all shapes/pictures to a safe area in column A
        - Clears columns to the right dynamically:
@@ -41,9 +43,9 @@ XL_OPENXML_WORKBOOK       = 51  # .xlsx
 XL_OPENXML_WORKBOOK_MACRO = 52  # .xlsm
 
 # Excel Find/Replace constants
-XL_PART       = 2   # LookAt: xlPart (substring match)
-XL_BYROWS     = 1   # SearchOrder: xlByRows
-XL_NEXT       = 1   # SearchDirection: xlNext
+XL_PART       = 2    # LookAt: xlPart (substring match)
+XL_BYROWS     = 1    # SearchOrder: xlByRows
+XL_NEXT       = 1    # SearchDirection: xlNext
 XL_FORMULAS   = -4123  # xlFormulas (Find's Within arg if needed)
 
 def get_src_path():
@@ -226,18 +228,68 @@ def column_index_to_label(idx):
         label = chr(65 + rem) + label
     return label
 
-def replace_ddp_with_cif_all_sheets(xl_wb):
+def replace_ddp_fob_and_normalize_fob_usa_all_sheets(xl_wb):
     """
-    Replace substring "DDP" -> "CIF" on all worksheets, case-insensitive,
-    without disturbing other text in the cell.
+    Step 1: Replace substring "DDP" -> "FOB" on all worksheets (case-insensitive).
+    Step 2: For any cell that contains BOTH "FOB" and "USA" (case-insensitive),
+            overwrite the cell with exactly "FOB, BUSAN PORT".
     """
+    # Step 1: Global DDP -> FOB
     for ws in xl_wb.Worksheets:
         try:
-            # Use Cells.Replace for partial substring replace
-            ws.Cells.Replace(What="DDP", Replacement="CIF", LookAt=XL_PART, SearchOrder=XL_BYROWS, MatchCase=False)
+            ws.Cells.Replace(
+                What="DDP",
+                Replacement="FOB",
+                LookAt=XL_PART,
+                SearchOrder=XL_BYROWS,
+                MatchCase=False
+            )
         except Exception:
-            # Some sheet types may not support Replace; ignore safely
             pass
+
+    # Step 2: Normalize any cell containing both "FOB" and "USA"
+    for ws in xl_wb.Worksheets:
+        try:
+            used = ws.UsedRange
+        except Exception:
+            continue
+
+        # Find all occurrences of "FOB" and then check for "USA" in the same cell
+        try:
+            first = used.Find(What="FOB", LookAt=XL_PART, SearchOrder=XL_BYROWS, SearchDirection=XL_NEXT, MatchCase=False)
+        except Exception:
+            first = None
+
+        if not first:
+            continue
+
+        # Collect addresses to avoid infinite loop if we edit while iterating
+        cells_to_fix = []
+        cur = first
+        while True:
+            try:
+                val = cur.Value
+            except Exception:
+                val = None
+
+            if isinstance(val, (str, bytes)):
+                s = str(val)
+                if ("usa" in s.lower()) and ("fob" in s.lower()):
+                    cells_to_fix.append(cur.Address)
+
+            try:
+                cur = used.FindNext(cur)
+            except Exception:
+                break
+            if not cur or cur.Address == first.Address:
+                break
+
+        # Now set those cells to the normalized string
+        for addr in cells_to_fix:
+            try:
+                ws.Range(addr).Value = "FOB, BUSAN PORT"
+            except Exception:
+                continue
 
 def main():
     src = get_src_path()
@@ -269,8 +321,8 @@ def main():
 
         dynamic_start = find_earliest_clear_start_col_for_ps(ps_ws)  # may be None
 
-        # 3b) Replace "DDP" -> "CIF" on ALL sheets (substring-safe)
-        replace_ddp_with_cif_all_sheets(wb)
+        # 3b) Replace DDP->FOB, then normalize any "FOB" & "USA" cells
+        replace_ddp_fob_and_normalize_fob_usa_all_sheets(wb)
 
         # 4) PS sheet shape-preserving clear using dynamic start
         shapes_info = snapshot_and_move_shapes_to_safe_area(ps_ws)
@@ -297,3 +349,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
