@@ -8,9 +8,9 @@
 #   1) Prompts for PJT TITLE and project type (C/I/DC).
 #   2) Creates folder: "ddmmyy_PJT TITLE_C/I/DC" (today's date; mmddyy).
 #   3) Creates subfolders: "from KOR" and "to KOR" inside it.
-#   4) Copies the correct Excel template into the project folder and renames it:
-#        - If C or I -> copy "...\\yymmdd PS-USA-EXWAY-A_TEMPLATE.xlsm"
-#        - If DC     -> copy "...\\yymmdd PS-USA-DATAWAY-A_TEMPLATE.xlsm"
+#   4) Copies the correct Excel template from _TEMPLATES and renames it:
+#        - If C or I -> copy "...\\_TEMPLATES\\yymmdd PS-USA-EXWAY-A_TEMPLATE.xlsm"
+#        - If DC     -> copy "...\\_TEMPLATES\\yymmdd PS-USA-DATAWAY-A_TEMPLATE.xlsm"
 #      New file name: "yymmdd PS-USA-<PJT TITLE>-A.xlsm"
 #   5) Root path is fixed to:
 #      C:\\Users\\EKim\\OneDrive - LS Cable\\PM - EugeneKim\\2_QUOTATION_PO&RFQ
@@ -27,6 +27,7 @@ INVALID_CHARS_PATTERN = r'[\\/:*?"<>|]+'
 
 # Fixed root path
 BASE_PATH = Path(r"C:\Users\EKim\OneDrive - LS Cable\PM - EugeneKim\2_QUOTATION_PO&RFQ")
+TEMPLATES_PATH = BASE_PATH / "_TEMPLATES"
 
 def prompt_nonempty(prompt: str) -> str:
     while True:
@@ -52,11 +53,11 @@ def main():
         # 1) Inputs
         pjt_title_raw = prompt_nonempty("ENTER PJT TITLE: ")
         pjt_title = sanitize_title(pjt_title_raw)
-        pjt_type = prompt_project_type()  # guarantees C / I / DC
+        pjt_type = prompt_project_type()
 
         # Dates for folder vs file naming
-        folder_date = datetime.now().strftime("%m%d%y")   # mmddyy for folder (kept as in original)
-        file_date   = datetime.now().strftime("%y%m%d")   # yymmdd for file (per your instruction)
+        folder_date = datetime.now().strftime("%m%d%y")   # mmddyy for folder
+        file_date   = datetime.now().strftime("%y%m%d")   # yymmdd for file
 
         # 2) Build folder name
         folder_name = f"{folder_date}_{pjt_title}_{pjt_type}"
@@ -70,25 +71,22 @@ def main():
         (project_dir / "to KOR").mkdir(exist_ok=True)
 
         # 4) Determine template source based on project type
-        #    Source files are expected to be in BASE_PATH and prefixed with today's yymmdd.
         if pjt_type in {"C", "I"}:
-            template_name = f"{file_date} PS-USA-EXWAY-A_TEMPLATE.xlsm"
+            template_name = f"yymmdd PS-USA-EXWAY-A_TEMPLATE.xlsm"
         elif pjt_type == "DC":
-            template_name = f"{file_date} PS-USA-DATAWAY-A_TEMPLATE.xlsm"
+            template_name = f"yymmdd PS-USA-DATAWAY-A_TEMPLATE.xlsm"
         else:
-            # Should never hit because prompt enforces, but keep as safety.
             print("  [!] Invalid project type. Please enter C, I, or DC.")
             sys.exit(1)
 
-        src_template = BASE_PATH / template_name
+        src_template = TEMPLATES_PATH / template_name
         if not src_template.exists():
             print(f"[ERROR] Template file not found:\n  {src_template}\n"
                   f"Please verify the template exists and is dated '{file_date}'.")
             sys.exit(1)
 
         # 5) Copy and rename inside the project folder
-        #    New filename: "yymmdd PS-USA-<PJT TITLE>-A.xlsm"
-        dest_filename = f"{file_date} PS-USA-{pjt_title} PJT-A.xlsm"
+        dest_filename = f"{file_date} PS-USA-{pjt_title}-A.xlsm"
         dest_path = project_dir / dest_filename
 
         shutil.copy2(src_template, dest_path)
