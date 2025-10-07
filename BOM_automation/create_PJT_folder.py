@@ -1,21 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# """
-# Script: create_PJT_folder.py
-# Usage: python create_PJT_folder.py
-# Description:
-#   1) Prompts for PJT TITLE and project type (C/I/DC).
-#   2) Creates folder: "ddmmyy_PJT TITLE_C/I/DC" (today's date; mmddyy).
-#   3) Creates subfolders: "from KOR" and "to KOR" inside it.
-#   4) Copies the correct Excel template from _TEMPLATES and renames it:
-#        - If C or I -> copy "...\\_TEMPLATES\\yymmdd PS-USA-EXWAY-A_TEMPLATE.xlsm"
-#        - If DC     -> copy "...\\_TEMPLATES\\yymmdd PS-USA-DATAWAY-A_TEMPLATE.xlsm"
-#      New file name: "yymmdd PS-USA-<PJT TITLE>-A.xlsm"
-#   5) Root path is fixed to:
-#      C:\\Users\\EKim\\OneDrive - LS Cable\\PM - EugeneKim\\2_QUOTATION_PO&RFQ
-# """
-
 from pathlib import Path
 from datetime import datetime
 import re
@@ -29,6 +14,15 @@ INVALID_CHARS_PATTERN = r'[\\/:*?"<>|]+'
 BASE_PATH = Path(r"C:\Users\EKim\OneDrive - LS Cable\PM - EugeneKim\2_QUOTATION_PO&RFQ")
 TEMPLATES_PATH = BASE_PATH / "_TEMPLATES"
 
+VALID_TYPES = {"EX", "DATA", "NSPB"}
+
+# NSPB intentionally uses the same template file as EX (EXWAY)
+TEMPLATE_MAP = {
+    "EX":   "yymmdd PS-USA-EXWAY-A_TEMPLATE.xlsm",
+    "DATA": "yymmdd PS-USA-DATAWAY-A_TEMPLATE.xlsm",
+    "NSPB": "yymmdd PS-USA-EXWAY-A_TEMPLATE.xlsm",  # reuse EXWAY template for NSPB
+}
+
 def prompt_nonempty(prompt: str) -> str:
     while True:
         val = input(prompt).strip()
@@ -36,12 +30,12 @@ def prompt_nonempty(prompt: str) -> str:
             return val
         print("  [!] Please enter a non-empty value.")
 
-def prompt_project_type() -> str:
+def prompt_product_type() -> str:
     while True:
-        val = input("COMMERCIAL/INDUSTRIAL/DATA CENTER? (C, I, DC): ").strip().lower()
-        if val in {"c", "i", "dc"}:
-            return val.upper()
-        print("  [!] Invalid input. Type C, I, or DC.")
+        val = input("choose product type (EX, DATA, NSPB): ").strip().upper()
+        if val in VALID_TYPES:
+            return val
+        print("  [!] Invalid input. Must be one of: EX, DATA, NSPB.")
 
 def sanitize_title(title: str) -> str:
     title = re.sub(INVALID_CHARS_PATTERN, " ", title)
@@ -52,8 +46,9 @@ def main():
     try:
         # 1) Inputs
         pjt_title_raw = prompt_nonempty("ENTER PJT TITLE: ")
-        pjt_title = sanitize_title(pjt_title_raw)
-        pjt_type = prompt_project_type()
+        # Sanitize then force ALL CAPS for consistent folder/file naming
+        pjt_title = sanitize_title(pjt_title_raw).upper()
+        pjt_type = prompt_product_type()
 
         # Dates for folder vs file naming
         folder_date = datetime.now().strftime("%m%d%y")   # mmddyy for folder
@@ -69,16 +64,10 @@ def main():
         project_dir.mkdir(parents=True, exist_ok=True)
         (project_dir / "from KOR").mkdir(exist_ok=True)
         (project_dir / "to KOR").mkdir(exist_ok=True)
+        (project_dir / "FINAL").mkdir(exist_ok=True)
 
-        # 4) Determine template source based on project type
-        if pjt_type in {"C", "I"}:
-            template_name = f"yymmdd PS-USA-EXWAY-A_TEMPLATE.xlsm"
-        elif pjt_type == "DC":
-            template_name = f"yymmdd PS-USA-DATAWAY-A_TEMPLATE.xlsm"
-        else:
-            print("  [!] Invalid project type. Please enter C, I, or DC.")
-            sys.exit(1)
-
+        # 4) Determine template source based on product type
+        template_name = TEMPLATE_MAP[pjt_type]
         src_template = TEMPLATES_PATH / template_name
         if not src_template.exists():
             print(f"[ERROR] Template file not found:\n  {src_template}\n"
@@ -86,7 +75,7 @@ def main():
             sys.exit(1)
 
         # 5) Copy and rename inside the project folder
-        dest_filename = f"{file_date} PS-USA-{pjt_title}-A.xlsm"
+        dest_filename = f"{file_date} PS-USA-{pjt_title} PJT-A.xlsm"
         dest_path = project_dir / dest_filename
 
         shutil.copy2(src_template, dest_path)
@@ -95,6 +84,7 @@ def main():
         print(f"  {project_dir}")
         print(f"  {project_dir / 'from KOR'}")
         print(f"  {project_dir / 'to KOR'}")
+        print(f"  {project_dir / 'FINAL'}")
         print(f"  {dest_path}")
 
     except KeyboardInterrupt:
