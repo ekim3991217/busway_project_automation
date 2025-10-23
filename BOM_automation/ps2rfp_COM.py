@@ -26,6 +26,13 @@ What it does:
        - Restores shapes to their original coordinates
   5) Saves a copy with filename prefix changed from "yymmdd PS-" to "yymmdd RFP-",
      preserving extension and macros when applicable (.xlsm).
+
+  ### UPDATED 10/23/2025 (new behaviors):
+  A) After DDP->FOB replacements, find the upper-most cell containing "FOB"
+     in the entire workbook and CLEAR the cell directly below it.
+  B) Read text from PS!G4, then find the NEXT occurrence of that text in the workbook.
+  C) For that found cell, clear contents of the SAME COLUMN beginning 5 rows below
+     (i.e., from row = found.Row + 6) down to the last used row.
 """
 
 import sys
@@ -291,6 +298,81 @@ def replace_ddp_fob_and_normalize_fob_usa_all_sheets(xl_wb):
             except Exception:
                 continue
 
+# --- HELPER ADDED ---
+def find_uppermost_match_across_workbook(xl_wb, needle, lookat=XL_PART):
+    """### UPDATED: Find the upper-most (smallest row, then smallest column) cell containing 'needle' across all sheets."""
+    needle_lc = str(needle).lower()
+    best = None  # (ws, cell_range, row, col)
+    for ws in xl_wb.Worksheets:
+        try:
+            used = ws.UsedRange
+        except Exception:
+            continue
+        try:
+            first = used.Find(What=needle, LookAt=lookat, SearchOrder=XL_BYROWS,
+                              SearchDirection=XL_NEXT, MatchCase=False)
+        except Exception:
+            first = None
+        if not first:
+            continue
+        # Walk through all hits on this sheet
+        cur = first
+        while True:
+            r = cur.Row
+            c = cur.Column
+            if best is None or (r < best[2] or (r == best[2] and c < best[3])):
+                best = (ws, cur, r, c)
+            try:
+                cur = used.FindNext(cur)
+            except Exception:
+                break
+            if not cur or cur.Address == first.Address:
+                break
+    return best  # may be None
+
+def find_next_occurrence_after_anchor(xl_wb, text, anchor_ws, anchor_row, anchor_col, lookat=XL_PART):
+    """### UPDATED: Find the NEXT occurrence of 'text' after the given anchor (ws,row,col) in workbook order."""
+    # First, try the same worksheet, after the anchor cell
+    try:
+        used = anchor_ws.UsedRange
+    except Exception:
+        used = None
+
+    if used is not None:
+        try:
+            after_cell = anchor_ws.Cells(anchor_row, anchor_col)  # After param for Find
+            hit = used.Find(What=text, After=after_cell, LookAt=lookat,
+                            SearchOrder=XL_BYROWS, SearchDirection=XL_NEXT, MatchCase=False)
+        except Exception:
+            hit = None
+        if hit and not (hit.Row == anchor_row and hit.Column == anchor_col):
+            return anchor_ws, hit
+
+    # If not found on same sheet, scan following worksheets then wrap around
+    sheets = list(xl_wb.Worksheets)
+    try:
+        start_ix = sheets.index(anchor_ws)
+    except Exception:
+        start_ix = 0
+
+    # Scan sheets after anchor first
+    for ws in sheets[start_ix+1:] + sheets[:start_ix]:
+        try:
+            used2 = ws.UsedRange
+        except Exception:
+            continue
+        try:
+            first = used2.Find(What=text, LookAt=lookat, SearchOrder=XL_BYROWS,
+                               SearchDirection=XL_NEXT, MatchCase=False)
+        except Exception:
+            first = None
+        if not first:
+            continue
+        # If the first hit on this sheet is okay, return it
+        return ws, first
+
+    return None, None
+
 def main():
     src = get_src_path()
     out = rename_to_rfp(src)
@@ -324,6 +406,50 @@ def main():
         # 3b) Replace DDP->FOB, then normalize any "FOB" & "USA" cells
         replace_ddp_fob_and_normalize_fob_usa_all_sheets(wb)
 
+        # A) Find UPPERMOST "FOB" and clear cell directly BELOW it
+        # ----------------------------------------------------------
+        best = find_uppermost_match_across_workbook(wb, "FOB")  # ### UPDATED: new call
+        if best:
+            ws_top, cell_top, r_top, c_top = best
+            try:
+                below = ws_top.Cells(r_top + 1, c_top)          # ### UPDATED
+                below.Clear()                                    # ### UPDATED: clear contents+formats of the cell directly below
+            except Exception:
+                pass
+
+        # B) Read PS!G4 text
+        # ------------------
+        try:
+            text_g4 = ps_ws.Range("G4").Text                     # ### UPDATED: capture text in G4
+            if text_g4 is None or str(text_g4).strip() == "":
+                text_g4 = ps_ws.Range("G4").Value
+        except Exception:
+            text_g4 = None
+
+        # C) Find NEXT occurrence of text_g4 after G4 across workbook
+        # -----------------------------------------------------------
+        found_ws, found_cell = (None, None)
+        if text_g4 is not None and str(text_g4).strip() != "":
+            found_ws, found_cell = find_next_occurrence_after_anchor(
+                wb, str(text_g4), ps_ws, 4, 7, lookat=XL_PART  # G4 = row 4, col 7
+            )                                                   # ### UPDATED
+
+        # D) If found, clear contents of same column beyond 5 rows under that cell
+        # ------------------------------------------------------------------------
+        if found_ws is not None and found_cell is not None:
+            try:
+                start_row = found_cell.Row + 6                  # 5 rows below means start clearing from row+6
+                col_idx   = found_cell.Column
+                # Determine last used row in this worksheet
+                last_row = found_ws.Cells(found_ws.Rows.Count, col_idx).End(-4162).Row  # xlUp = -4162
+                if start_row <= last_row:
+                    rng = found_ws.Range(found_ws.Cells(start_row, col_idx),
+                                          found_ws.Cells(last_row, col_idx))
+                    rng.ClearContents                           # ### UPDATED: clear contents (not formats) per requirement
+            except Exception:
+                pass
+        # === END NEW BEHAVIORS ===
+
         # 4) PS sheet shape-preserving clear using dynamic start
         shapes_info = snapshot_and_move_shapes_to_safe_area(ps_ws)
         clear_ps_columns_from_dynamic_start(ps_ws, dynamic_start)
@@ -349,4 +475,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
